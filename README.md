@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Niloufar Rabiee
 
-I am a multidisciplinary iOS developer and experience designer, with a strong focus on emotional intelligence, wellness technologies, and human-centered innovation.  
+I am an iOS developer and experience designer, with a strong focus on emotional intelligence, wellness technologies, and human-centered innovation.  
 Currently based in Naples, Italy, I am part of the Apple Developer Academy, where I am refining my expertise in Swift, SwiftUI, and Apple ecosystem integration.
 
 ---
