@@ -1,3 +1,6 @@
+// y = 1 if at least one x_i = 1; otherwise y = 0
+// Equivalent: y = 1 - Π_i (1 - x_i), with x_i ∈ {0,1}
+
 👋 Hi, I’m Niloufar Rabiee
 
 I am an iOS developer and experience designer, with a strong focus on emotional intelligence, wellness technologies, and human-centered innovation.  
