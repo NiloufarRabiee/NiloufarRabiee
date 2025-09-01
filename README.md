@@ -24,15 +24,14 @@ At the Apple Developer Academy (Unina • Naples, Italy), I’m deepening Swift/
   👉 App Store: https://apps.apple.com/it/app/one-button-decision-maker/id6743403533?l=en-GB
 
 - **MoodShift** — AI-powered, emotion-adaptive mini-game exploring real-time affect→mechanics loops.  
-  🧪 TestFlight build (link to be added here)
+  🧪 TestFlight: [Request invite](mailto:rabiee.niloo@gmail.com?subject=MoodShift%20TestFlight%20Invite%20Request)
 
-- **Ecosphier** — Apple Academy team project to estimate carbon footprint and visualize impact with a 3D Earth model.  
-  📄 Case study & details on my website (see below)
+- **Ecosphier** — Apple Academy team project estimating carbon footprint with a Q&A flow and 3D Earth visualization.  
+  📄 Case study: https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces
 
-- **Masky** — (brief one-liner about what Masky does)  
-  🔗 Link to App Store/TestFlight or case study (to be added)
-
-> Browse more apps & case studies → https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces
+- **Masky** — a playful emotion-literacy app for kids: 10 illustrated “Guess the Feelings” stories + an **Emotion Mirror** mini-activity.  
+  🧪 TestFlight: [Request invite](mailto:rabiee.niloo@gmail.com?subject=Masky%20TestFlight%20Invite%20Request)
+  📄 Case study: https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces
 
 ---
 
