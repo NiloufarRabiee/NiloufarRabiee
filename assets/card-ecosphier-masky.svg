@@ -1,0 +1,45 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="620" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08120F"/><stop offset="1" stop-color="#10151D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="50" y1="0" x2="570" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/><stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(498 145) rotate(180) scale(170 135)">
+      <stop stop-color="#5EEAD4" stop-opacity="0.13"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="620" height="320" rx="26" fill="url(#bg)"/>
+  <rect width="620" height="320" rx="26" fill="url(#glow)"/>
+  <g stroke="#B8C9D0" stroke-opacity="0.04"><path d="M0 64H620M0 128H620M0 192H620M0 256H620"/><path d="M62 0V320M124 0V320M186 0V320M248 0V320M310 0V320M372 0V320M434 0V320M496 0V320M558 0V320"/></g>
+
+  <text x="50" y="48" fill="#F6BE55" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="800" letter-spacing="1.8">04 / CASE STUDY · PRODUCT</text>
+  <text x="50" y="101" fill="#F8FAFC" font-family="Inter,system-ui,sans-serif" font-size="34" font-weight="750">Ecosphier + Masky</text>
+  <text x="50" y="129" fill="#8EEBD9" font-family="Inter,system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="1">SUSTAINABILITY · EMOTION LITERACY</text>
+  <text x="50" y="171" fill="#C5D2D4" font-family="Inter,system-ui,sans-serif" font-size="15">Interactive product explorations spanning carbon</text>
+  <text x="50" y="194" fill="#C5D2D4" font-family="Inter,system-ui,sans-serif" font-size="15">awareness, 3D communication, and playful learning.</text>
+
+  <g transform="translate(50 242)">
+    <rect width="142" height="34" rx="17" fill="#111B18" stroke="#5EEAD4" stroke-opacity="0.28"/>
+    <text x="71" y="22" text-anchor="middle" fill="#D6F6EE" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="800" letter-spacing="0.8">OPEN CASE STUDY ↗</text>
+  </g>
+
+  <g transform="translate(400 57)">
+    <circle cx="74" cy="98" r="58" fill="#0B1815" stroke="#5EEAD4" stroke-opacity="0.3"/>
+    <path d="M45 77C56 62 76 60 91 69C105 78 113 96 109 111C105 129 89 142 71 141C53 140 38 126 36 108C34 96 37 86 45 77Z" fill="#5EEAD4" fill-opacity="0.08" stroke="#5EEAD4" stroke-opacity="0.34"/>
+    <path d="M48 92C63 91 70 86 79 76C87 86 96 91 108 93" stroke="#5EEAD4" stroke-opacity="0.55" stroke-width="2"/>
+    <circle cx="61" cy="104" r="3.5" fill="#5EEAD4"/>
+    <circle cx="92" cy="104" r="3.5" fill="#5EEAD4"/>
+    <path d="M63 120C72 127 81 127 90 120" stroke="#F59E0B" stroke-width="2" stroke-linecap="round"/>
+
+    <circle cx="126" cy="92" r="47" fill="#18140B" stroke="#F59E0B" stroke-opacity="0.32"/>
+    <path d="M96 92C112 83 122 70 127 51C133 69 144 82 158 91C143 97 133 111 127 132C120 111 110 99 96 92Z" fill="#F59E0B" fill-opacity="0.11" stroke="#F59E0B" stroke-opacity="0.42"/>
+    <circle cx="126" cy="92" r="6" fill="#F59E0B"><animate attributeName="r" values="5;8;5" dur="2.6s" repeatCount="indefinite"/></circle>
+
+    <path d="M40 164C74 146 113 146 158 164" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <path d="M50 300H570" stroke="url(#accent)" stroke-opacity="0.42"/>
+  <rect x="1" y="1" width="618" height="318" rx="25" stroke="#E2E8F0" stroke-opacity="0.07"/>
+</svg>
