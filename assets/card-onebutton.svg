@@ -1,0 +1,42 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="620" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08101B"/><stop offset="1" stop-color="#101224"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="58" y1="0" x2="565" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/><stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(494 150) rotate(180) scale(170 140)">
+      <stop stop-color="#C4B5FD" stop-opacity="0.17"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="620" height="320" rx="26" fill="url(#bg)"/>
+  <rect width="620" height="320" rx="26" fill="url(#glow)"/>
+  <g stroke="#A9BED6" stroke-opacity="0.04"><path d="M0 64H620M0 128H620M0 192H620M0 256H620"/><path d="M62 0V320M124 0V320M186 0V320M248 0V320M310 0V320M372 0V320M434 0V320M496 0V320M558 0V320"/></g>
+
+  <text x="50" y="48" fill="#9DDDFC" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="800" letter-spacing="1.8">02 / SHIPPED · APP STORE</text>
+  <text x="50" y="101" fill="#F8FAFC" font-family="Inter,system-ui,sans-serif" font-size="36" font-weight="750">One Button</text>
+  <text x="50" y="129" fill="#C4B5FD" font-family="Inter,system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="1">DECISION UX · MINIMAL INTERACTION</text>
+  <text x="50" y="171" fill="#C3CFDD" font-family="Inter,system-ui,sans-serif" font-size="15">A deliberately simple decision tool built to</text>
+  <text x="50" y="194" fill="#C3CFDD" font-family="Inter,system-ui,sans-serif" font-size="15">reduce cognitive overhead at the moment of choice.</text>
+
+  <g transform="translate(50 242)">
+    <rect width="110" height="34" rx="17" fill="#12172A" stroke="#9A8CF6" stroke-opacity="0.36"/>
+    <text x="55" y="22" text-anchor="middle" fill="#DED8FE" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="800" letter-spacing="1">VIEW APP ↗</text>
+  </g>
+
+  <g transform="translate(403 58)">
+    <circle cx="88" cy="96" r="82" fill="#0A1120" stroke="#7DD3FC" stroke-opacity="0.11"/>
+    <circle cx="88" cy="96" r="61" fill="#0B1324" stroke="#C4B5FD" stroke-opacity="0.2">
+      <animate attributeName="r" values="61;66;61" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.2;0.45;0.2" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="88" cy="96" r="39" fill="url(#accent)" fill-opacity="0.11" stroke="url(#accent)" stroke-width="2"/>
+    <circle cx="88" cy="96" r="9" fill="#E5E7EB"/>
+    <path d="M88 35V57M88 135V157M27 96H49M127 96H149" stroke="#D9E3EF" stroke-opacity="0.16"/>
+    <text x="88" y="101" text-anchor="middle" fill="#0A1120" font-family="Inter,system-ui,sans-serif" font-size="1">.</text>
+  </g>
+
+  <path d="M50 300H570" stroke="url(#accent)" stroke-opacity="0.42"/>
+  <rect x="1" y="1" width="618" height="318" rx="25" stroke="#E2E8F0" stroke-opacity="0.07"/>
+</svg>
