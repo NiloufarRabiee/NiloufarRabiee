@@ -1,0 +1,45 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="620" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0D18"/><stop offset="1" stop-color="#171025"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="50" y1="0" x2="570" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4B5FD"/><stop offset="1" stop-color="#F0ABFC"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(500 146) rotate(180) scale(170 135)">
+      <stop stop-color="#E879F9" stop-opacity="0.16"/><stop offset="1" stop-color="#E879F9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="620" height="320" rx="26" fill="url(#bg)"/>
+  <rect width="620" height="320" rx="26" fill="url(#glow)"/>
+  <g stroke="#C4B5FD" stroke-opacity="0.035"><path d="M0 64H620M0 128H620M0 192H620M0 256H620"/><path d="M62 0V320M124 0V320M186 0V320M248 0V320M310 0V320M372 0V320M434 0V320M496 0V320M558 0V320"/></g>
+
+  <text x="50" y="48" fill="#D8D0FE" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="800" letter-spacing="1.8">03 / EXPERIMENT · TESTFLIGHT</text>
+  <text x="50" y="101" fill="#F8FAFC" font-family="Inter,system-ui,sans-serif" font-size="38" font-weight="750">MoodShift</text>
+  <text x="50" y="129" fill="#F0ABFC" font-family="Inter,system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="1">AFFECTIVE INTERACTION · GAMEPLAY</text>
+  <text x="50" y="171" fill="#CFC7DA" font-family="Inter,system-ui,sans-serif" font-size="15">An experimental mini-game exploring how affective</text>
+  <text x="50" y="194" fill="#CFC7DA" font-family="Inter,system-ui,sans-serif" font-size="15">signals can shift mechanics and interaction in real time.</text>
+
+  <g transform="translate(50 242)">
+    <rect width="136" height="34" rx="17" fill="#171226" stroke="#C4B5FD" stroke-opacity="0.35"/>
+    <text x="68" y="22" text-anchor="middle" fill="#E4DEFF" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="800" letter-spacing="0.9">REQUEST ACCESS ↗</text>
+  </g>
+
+  <g transform="translate(397 57)">
+    <circle cx="77" cy="98" r="35" fill="#C4B5FD" fill-opacity="0.14" stroke="#C4B5FD" stroke-opacity="0.45">
+      <animate attributeName="cx" values="77;91;77" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="112" cy="74" r="42" fill="#F0ABFC" fill-opacity="0.1" stroke="#F0ABFC" stroke-opacity="0.38">
+      <animate attributeName="cy" values="74;91;74" dur="4.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="125" r="30" fill="#7DD3FC" fill-opacity="0.08" stroke="#7DD3FC" stroke-opacity="0.28">
+      <animate attributeName="cx" values="120;104;120" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="96" cy="99" r="72" fill="none" stroke="url(#accent)" stroke-opacity="0.14" stroke-dasharray="4 8"/>
+    <path d="M28 155C58 121 78 142 99 118C120 94 140 118 167 82" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity="0.74"/>
+    <circle r="4" fill="#F8FAFC"><animateMotion dur="3.8s" repeatCount="indefinite" path="M28 155C58 121 78 142 99 118C120 94 140 118 167 82"/></circle>
+  </g>
+
+  <path d="M50 300H570" stroke="url(#accent)" stroke-opacity="0.42"/>
+  <rect x="1" y="1" width="618" height="318" rx="25" stroke="#E2E8F0" stroke-opacity="0.07"/>
+</svg>
