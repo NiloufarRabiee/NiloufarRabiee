@@ -30,64 +30,20 @@ That question connects most of my work: from spatial interfaces and affective in
   <img src="./assets/system-map.svg" width="100%" alt="Niloufar Rabiee research and design system map" />
 </p>
 
-<br/>
-
 ## `02 / selected work`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <sub>PUBLIC-FACING PROJECTS / SELECTED</sub>
+</p>
 
-<sub>SHIPPED · APP STORE</sub>
-
-### FeelPrint
-**Emotion tracking · SwiftUI · on-device logic**
-
-A deliberately compact three-screen emotion tracker designed to reduce interaction friction and keep reflection lightweight.
-
-[![App Store](https://img.shields.io/badge/OPEN_IN_APP_STORE-0A84FF?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/it/app/feelprint/id6746127790?l=en-GB)
-
-</td>
-<td width="50%" valign="top">
-
-<sub>SHIPPED · APP STORE</sub>
-
-### One Button Decision Maker
-**Decision UX · minimal interaction · iOS**
-
-A noise-free decision tool built around a single interaction for moments when cognitive overhead is the actual problem.
-
-[![App Store](https://img.shields.io/badge/OPEN_IN_APP_STORE-0A84FF?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/it/app/one-button-decision-maker/id6743403533?l=en-GB)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub>EXPERIMENT · AFFECTIVE INTERACTION</sub>
-
-### MoodShift
-**AI-assisted adaptation · emotion-to-mechanics loop**
-
-An experimental mini-game investigating how changing affective signals can modify interaction and game behavior in real time.
-
-[![TestFlight](https://img.shields.io/badge/REQUEST_TESTFLIGHT-0D96F6?style=flat-square&logo=apple&logoColor=white)](mailto:rabiee.niloo@gmail.com?subject=MoodShift%20TestFlight%20Invite%20Request)
-
-</td>
-<td width="50%" valign="top">
-
-<sub>DESIGN STUDIES · TEAM + INDEPENDENT</sub>
-
-### Ecosphier + Masky
-**Sustainability · emotion literacy · 3D / interactive UX**
-
-Explorations spanning environmental interaction, immersive visual communication, and playful emotional learning.
-
-[![Case Study](https://img.shields.io/badge/VIEW_CASE_STUDY-171717?style=flat-square&logo=readme&logoColor=white)](https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://apps.apple.com/it/app/feelprint/id6746127790?l=en-GB"><img src="./assets/card-feelprint.svg" width="49%" alt="FeelPrint — emotion tracking app by Niloufar Rabiee" /></a>
+  <a href="https://apps.apple.com/it/app/one-button-decision-maker/id6743403533?l=en-GB"><img src="./assets/card-onebutton.svg" width="49%" alt="One Button Decision Maker by Niloufar Rabiee" /></a>
+</p>
+<p align="center">
+  <a href="mailto:rabiee.niloo@gmail.com?subject=MoodShift%20TestFlight%20Invite%20Request"><img src="./assets/card-moodshift.svg" width="49%" alt="MoodShift — affective interaction experiment by Niloufar Rabiee" /></a>
+  <a href="https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces"><img src="./assets/card-ecosphier-masky.svg" width="49%" alt="Ecosphier and Masky case studies by Niloufar Rabiee" /></a>
+</p>
 
 <br/>
 
