@@ -1,0 +1,55 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="180" y1="180" x2="1020" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.5" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="#0A0F1B"/>
+  <g stroke="#7C8AA3" stroke-opacity="0.08">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+    <path d="M100 0V360M200 0V360M300 0V360M400 0V360M500 0V360M600 0V360M700 0V360M800 0V360M900 0V360M1000 0V360M1100 0V360"/>
+  </g>
+
+  <circle cx="600" cy="180" r="88" fill="#7DD3FC" fill-opacity="0.05" filter="url(#blur)"/>
+  <circle cx="600" cy="180" r="67" fill="#0D1627" stroke="url(#line)" stroke-opacity="0.75" stroke-width="2"/>
+  <text x="600" y="170" text-anchor="middle" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="700">NILOUFAR</text>
+  <text x="600" y="194" text-anchor="middle" fill="#9FB0C7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" letter-spacing="1.5">DESIGNING SYSTEMS</text>
+
+  <g stroke="url(#line)" stroke-width="1.5" stroke-opacity="0.55">
+    <path d="M533 156L365 98"/>
+    <path d="M533 204L365 262"/>
+    <path d="M667 156L835 98"/>
+    <path d="M667 204L835 262"/>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif">
+    <g>
+      <rect x="150" y="52" width="230" height="88" rx="18" fill="#0E1726" stroke="#5EEAD4" stroke-opacity="0.34"/>
+      <text x="174" y="86" fill="#9FE8DD" font-size="14" font-weight="700" letter-spacing="1">01 · BUILT ENVIRONMENT</text>
+      <text x="174" y="111" fill="#A8B6CA" font-size="13">architecture · urban interfaces</text>
+    </g>
+    <g>
+      <rect x="150" y="220" width="230" height="88" rx="18" fill="#0E1726" stroke="#7DD3FC" stroke-opacity="0.34"/>
+      <text x="174" y="254" fill="#B9E4F8" font-size="14" font-weight="700" letter-spacing="1">02 · HUMAN FACTORS</text>
+      <text x="174" y="279" fill="#A8B6CA" font-size="13">emotion · behavior · accessibility</text>
+    </g>
+    <g>
+      <rect x="820" y="52" width="230" height="88" rx="18" fill="#0E1726" stroke="#C4B5FD" stroke-opacity="0.34"/>
+      <text x="844" y="86" fill="#D9D1FE" font-size="14" font-weight="700" letter-spacing="1">03 · INTELLIGENCE</text>
+      <text x="844" y="111" fill="#A8B6CA" font-size="13">AI · perception · adaptive systems</text>
+    </g>
+    <g>
+      <rect x="820" y="220" width="230" height="88" rx="18" fill="#0E1726" stroke="#7DD3FC" stroke-opacity="0.34"/>
+      <text x="844" y="254" fill="#B9E4F8" font-size="14" font-weight="700" letter-spacing="1">04 · APPLE ECOSYSTEM</text>
+      <text x="844" y="279" fill="#A8B6CA" font-size="13">SwiftUI · spatial · health · interaction</text>
+    </g>
+  </g>
+
+  <g fill="#E2E8F0">
+    <circle cx="365" cy="98" r="4"/><circle cx="365" cy="262" r="4"/><circle cx="835" cy="98" r="4"/><circle cx="835" cy="262" r="4"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="23" stroke="#E2E8F0" stroke-opacity="0.07"/>
+</svg>
