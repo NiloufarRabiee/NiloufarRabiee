@@ -1,78 +1,61 @@
-<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#070A12"/>
-      <stop offset="1" stop-color="#0A1120"/>
-    </linearGradient>
-    <linearGradient id="signal" x1="154" y1="0" x2="1046" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5EEAD4"/>
-      <stop offset="0.5" stop-color="#7DD3FC"/>
-      <stop offset="1" stop-color="#C4B5FD"/>
-    </linearGradient>
-    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
-      <path d="M38 0L0 0 0 38" fill="none" stroke="#9FB3CD" stroke-opacity="0.05"/>
-    </pattern>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8"/></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#070B13"/><stop offset="1" stop-color="#09111D"/></linearGradient>
+    <linearGradient id="signal" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4"/><stop offset="0.52" stop-color="#7DD3FC"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0L0 0 0 48" fill="none" stroke="#9FB3CD" stroke-opacity="0.035"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7"/></filter>
   </defs>
 
-  <rect width="1200" height="380" rx="26" fill="url(#bg)"/>
-  <rect width="1200" height="380" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
 
-  <text x="70" y="58" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">SYSTEM COORDINATES</text>
-  <text x="70" y="84" fill="#74859C" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" letter-spacing="1.7">FOUR DOMAINS / ONE INTERACTION LAYER</text>
+  <text x="58" y="34" fill="#71829A" font-family="Inter,system-ui,sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">SYSTEM COORDINATES / ONE INTERACTION LAYER</text>
+  <text x="1142" y="34" text-anchor="end" fill="#53667F" font-family="Inter,system-ui,sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">NR / 2026</text>
 
-  <g stroke="url(#signal)" stroke-opacity="0.48" stroke-width="1.5" stroke-dasharray="5 8">
-    <path d="M386 130L522 170"/>
-    <path d="M386 286L522 214"/>
-    <path d="M814 130L678 170"/>
-    <path d="M814 286L678 214"/>
+  <g stroke="url(#signal)" stroke-opacity="0.36" stroke-width="1.4">
+    <path d="M380 99L538 135"/>
+    <path d="M380 201L538 165"/>
+    <path d="M820 99L662 135"/>
+    <path d="M820 201L662 165"/>
   </g>
 
-  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif">
+  <g font-family="Inter,system-ui,sans-serif">
     <g>
-      <rect x="128" y="92" width="270" height="92" rx="18" fill="#0B1422" stroke="#5EEAD4" stroke-opacity="0.32"/>
-      <text x="154" y="127" fill="#A7F0E5" font-size="13" font-weight="800" letter-spacing="1.2">01 / BUILT ENVIRONMENT</text>
-      <text x="154" y="153" fill="#A2B2C7" font-size="13">architecture · urban interfaces</text>
-      <circle cx="372" cy="114" r="4.5" fill="#5EEAD4"/>
+      <rect x="80" y="62" width="300" height="74" rx="17" fill="#0B1421" stroke="#5EEAD4" stroke-opacity="0.28"/>
+      <text x="108" y="92" fill="#A5EEE3" font-size="13" font-weight="800" letter-spacing="1">01 · BUILT ENVIRONMENT</text>
+      <text x="108" y="116" fill="#9DADC1" font-size="13">architecture · urban interfaces</text>
+      <circle cx="354" cy="99" r="4" fill="#5EEAD4"/>
     </g>
     <g>
-      <rect x="128" y="236" width="270" height="92" rx="18" fill="#0B1422" stroke="#7DD3FC" stroke-opacity="0.32"/>
-      <text x="154" y="271" fill="#BFE9FC" font-size="13" font-weight="800" letter-spacing="1.2">02 / HUMAN FACTORS</text>
-      <text x="154" y="297" fill="#A2B2C7" font-size="13">emotion · behavior · accessibility</text>
-      <circle cx="372" cy="258" r="4.5" fill="#7DD3FC"/>
+      <rect x="80" y="164" width="300" height="74" rx="17" fill="#0B1421" stroke="#7DD3FC" stroke-opacity="0.28"/>
+      <text x="108" y="194" fill="#BCE8FB" font-size="13" font-weight="800" letter-spacing="1">02 · HUMAN FACTORS</text>
+      <text x="108" y="218" fill="#9DADC1" font-size="13">emotion · behavior · accessibility</text>
+      <circle cx="354" cy="201" r="4" fill="#7DD3FC"/>
     </g>
     <g>
-      <rect x="802" y="92" width="270" height="92" rx="18" fill="#0B1422" stroke="#C4B5FD" stroke-opacity="0.32"/>
-      <text x="828" y="127" fill="#DFD8FE" font-size="13" font-weight="800" letter-spacing="1.2">03 / INTELLIGENCE</text>
-      <text x="828" y="153" fill="#A2B2C7" font-size="13">AI · perception · adaptive systems</text>
-      <circle cx="828" cy="114" r="4.5" fill="#C4B5FD"/>
+      <rect x="820" y="62" width="300" height="74" rx="17" fill="#0B1421" stroke="#C4B5FD" stroke-opacity="0.28"/>
+      <text x="848" y="92" fill="#DDD6FE" font-size="13" font-weight="800" letter-spacing="1">03 · INTELLIGENCE</text>
+      <text x="848" y="116" fill="#9DADC1" font-size="13">AI · perception · adaptive systems</text>
+      <circle cx="846" cy="99" r="4" fill="#C4B5FD"/>
     </g>
     <g>
-      <rect x="802" y="236" width="270" height="92" rx="18" fill="#0B1422" stroke="#91C9FC" stroke-opacity="0.32"/>
-      <text x="828" y="271" fill="#C9E9FF" font-size="13" font-weight="800" letter-spacing="1.2">04 / APPLE ECOSYSTEM</text>
-      <text x="828" y="297" fill="#A2B2C7" font-size="13">SwiftUI · spatial · health · interaction</text>
-      <circle cx="828" cy="258" r="4.5" fill="#91C9FC"/>
+      <rect x="820" y="164" width="300" height="74" rx="17" fill="#0B1421" stroke="#7DD3FC" stroke-opacity="0.28"/>
+      <text x="848" y="194" fill="#BCE8FB" font-size="13" font-weight="800" letter-spacing="1">04 · APPLE ECOSYSTEM</text>
+      <text x="848" y="218" fill="#9DADC1" font-size="13">SwiftUI · spatial · health · interaction</text>
+      <circle cx="846" cy="201" r="4" fill="#7DD3FC"/>
     </g>
   </g>
 
-  <g transform="translate(600 192)">
-    <circle r="92" fill="#7DD3FC" fill-opacity="0.035" stroke="#7DD3FC" stroke-opacity="0.08"/>
-    <circle r="72" fill="#091321" stroke="url(#signal)" stroke-opacity="0.65" stroke-width="1.5"/>
-    <circle r="53" fill="#07101C" stroke="#E2E8F0" stroke-opacity="0.08"/>
-    <text x="0" y="-6" text-anchor="middle" fill="#F8FAFC" font-family="Georgia, Times New Roman, serif" font-size="39" font-weight="700">N</text>
-    <text x="0" y="21" text-anchor="middle" fill="#9EB0C6" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">INTERACTION</text>
-    <circle cx="0" cy="-72" r="5" fill="#5EEAD4" filter="url(#glow)">
-      <animate attributeName="r" values="3.5;6.5;3.5" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
+  <g transform="translate(600 150)">
+    <circle r="66" fill="#7DD3FC" fill-opacity="0.025" stroke="#7DD3FC" stroke-opacity="0.08"/>
+    <circle r="54" fill="#091421" stroke="url(#signal)" stroke-opacity="0.72" stroke-width="1.6"/>
+    <text x="0" y="-4" text-anchor="middle" fill="#F8FAFC" font-family="Inter,system-ui,sans-serif" font-size="22" font-weight="800" letter-spacing="1.2">N</text>
+    <text x="0" y="18" text-anchor="middle" fill="#91A4BC" font-family="Inter,system-ui,sans-serif" font-size="9" font-weight="800" letter-spacing="1.6">INTERACTION</text>
+    <circle cx="0" cy="-54" r="4" fill="#5EEAD4"><animate attributeName="r" values="3;5;3" dur="2.2s" repeatCount="indefinite"/></circle>
   </g>
 
-  <circle r="4.5" fill="#F8FAFC" filter="url(#glow)">
-    <animateMotion dur="4.6s" repeatCount="indefinite" path="M386 130L522 170L600 192L678 170L814 130"/>
-  </circle>
-  <circle r="4.5" fill="#F8FAFC" filter="url(#glow)">
-    <animateMotion dur="4.6s" begin="2.3s" repeatCount="indefinite" path="M386 286L522 214L600 192L678 214L814 286"/>
-  </circle>
+  <circle r="4" fill="#F8FAFC" filter="url(#glow)"><animateMotion dur="4.4s" repeatCount="indefinite" path="M380 99L538 135L600 150L662 135L820 99"/></circle>
+  <circle r="4" fill="#F8FAFC" filter="url(#glow)"><animateMotion dur="4.4s" begin="2.2s" repeatCount="indefinite" path="M380 201L538 165L600 150L662 165L820 201"/></circle>
 
-  <text x="1130" y="352" text-anchor="end" fill="#65778F" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" letter-spacing="1.6">NR / COORDINATE MAP</text>
-  <rect x="1" y="1" width="1198" height="378" rx="25" stroke="#E2E8F0" stroke-opacity="0.07"/>
+  <rect x="1" y="1" width="1198" height="298" rx="23" stroke="#E2E8F0" stroke-opacity="0.06"/>
 </svg>
