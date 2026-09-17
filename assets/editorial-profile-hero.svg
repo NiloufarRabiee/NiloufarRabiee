@@ -1,0 +1,57 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111A"/>
+      <stop offset="0.52" stop-color="#0C1420"/>
+      <stop offset="1" stop-color="#120E1C"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 90) rotate(35) scale(330 240)">
+      <stop stop-color="#5EEAD4" stop-opacity=".11"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 390) rotate(180) scale(390 280)">
+      <stop stop-color="#C4B5FD" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="370" y1="0" x2="830" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset=".5" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="500" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="500" rx="32" fill="url(#g1)"/>
+  <rect width="1200" height="500" rx="32" fill="url(#g2)"/>
+
+  <g opacity=".38" stroke="#D8E2EE" stroke-width="1">
+    <path d="M-40 365C126 267 207 431 368 347C489 284 495 182 655 191C798 199 857 332 1007 303C1100 285 1145 218 1245 222"/>
+    <path d="M-25 394C138 299 221 454 386 375C524 309 531 220 673 225C805 230 881 354 1019 327C1110 309 1156 252 1237 253" opacity=".45"/>
+    <path d="M25 94C170 155 219 63 368 117C494 163 527 285 685 273C827 261 882 137 1033 152C1114 160 1167 202 1215 244" opacity=".32"/>
+  </g>
+
+  <g opacity=".55">
+    <circle cx="135" cy="83" r="1.7" fill="#F8FAFC"/>
+    <circle cx="295" cy="121" r="1.4" fill="#7DD3FC"/>
+    <circle cx="437" cy="77" r="1.3" fill="#C4B5FD"/>
+    <circle cx="798" cy="98" r="1.4" fill="#F8FAFC"/>
+    <circle cx="1048" cy="116" r="1.2" fill="#5EEAD4"/>
+    <circle cx="1092" cy="405" r="1.3" fill="#C4B5FD"/>
+    <circle cx="162" cy="428" r="1.3" fill="#7DD3FC"/>
+  </g>
+
+  <text x="600" y="96" text-anchor="middle" fill="#8291A5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">NILOUFAR RABIEE</text>
+
+  <text x="600" y="188" text-anchor="middle" fill="#F7F8FA" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700">Designing the space between</text>
+  <text x="600" y="252" text-anchor="middle" fill="#F7F8FA" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700">people and technology.</text>
+
+  <rect x="385" y="286" width="430" height="2.5" rx="1.25" fill="url(#accent)"/>
+
+  <text x="600" y="335" text-anchor="middle" fill="#B7C3D2" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="500">Architecture  •  Human-centered AI  •  Interaction Design  •  Apple Platforms</text>
+
+  <text x="600" y="390" text-anchor="middle" fill="#8394AA" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">Calm interfaces. Thoughtful systems. Human agency first.</text>
+
+  <text x="600" y="454" text-anchor="middle" fill="#5F7087" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">ARCHITECTURE × RESEARCH × PROTOTYPING</text>
+
+  <rect x="1" y="1" width="1198" height="498" rx="31" stroke="#E2E8F0" stroke-opacity=".07"/>
+</svg>
