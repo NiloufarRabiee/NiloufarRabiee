@@ -1,7 +1,5 @@
-> y = 1 if at least one x_i = 1; otherwise y = 0 — equivalently, y = 1 − ∏ (1 − x_i), with x_i ∈ {0,1}.
-
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Niloufar Rabiee — Architect, Human-AI Research, Apple Development" />
+  <img src="./assets/research-universe-hero.svg" width="100%" alt="Niloufar Rabiee — Research Universe" />
 </p>
 
 <p align="center">
@@ -27,7 +25,7 @@ The goal is not technology for its own sake. I am interested in what happens whe
 That question connects most of my work: from spatial interfaces and affective interaction to small, deliberately simple digital products.
 
 <p align="center">
-  <img src="./assets/system-map.svg" width="100%" alt="Niloufar Rabiee research and design system map" />
+  <img src="./assets/research-constellation.svg" width="100%" alt="Niloufar Rabiee research constellation" />
 </p>
 
 ## `02 / research atlas`
