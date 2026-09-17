@@ -98,12 +98,6 @@ I am open to thoughtful collaborations and opportunities across **architecture +
   <a href="mailto:rabiee.niloo@gmail.com"><b>Email</b></a>
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="./assets/rabbit-door-v1.svg" width="100%" alt="Curiosity is a door" />
-</p>
-
 <p align="center">
   <sub>Designed and curated by <b>Niloufar Rabiee</b> · 2026</sub>
 </p>
