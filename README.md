@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/editorial-profile-hero-v2.svg" width="100%" alt="Niloufar Rabiee — architecture, human-centered AI, interaction design and Apple platforms" />
+  <img src="./assets/rabbit-hole-hero-v1.svg" width="100%" alt="Niloufar Rabiee — Follow the white rabbit" />
 </p>
 
 <p align="center">
-  <a href="https://niloufarrabieeusa.com"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=safari&logoColor=7DD3FC" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/niloufar-rabiee-55447325a/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn" /></a>
-  <a href="mailto:rabiee.niloo@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email" /></a>
+  <a href="https://niloufarrabieeusa.com"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=safari&logoColor=7CFFB2" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/niloufar-rabiee-55447325a/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=B64CFF" alt="LinkedIn" /></a>
+  <a href="mailto:rabiee.niloo@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=FF5EC8" alt="Email" /></a>
 </p>
 
 <br/>
@@ -20,17 +20,9 @@ I am interested in technology that feels thoughtful rather than loud — systems
 
 That question connects much of what I build.
 
-<br/>
-
-## Public research map
-
-This is a deliberately high-level view of my practice. It shows the fields I work across without exposing unpublished or sensitive project details.
-
 <p align="center">
-  <img src="./assets/public-research-map-v2.svg" width="100%" alt="Niloufar Rabiee public research map" />
+  <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Follow the white rabbit" />
 </p>
-
-<br/>
 
 ## Selected public work
 
@@ -58,7 +50,9 @@ This is a deliberately high-level view of my practice. It shows the fields I wor
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="The trail continues" />
+</p>
 
 ## Practice
 
@@ -92,7 +86,9 @@ The process is usually the same: **research → frame the problem → prototype 
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=C4B5FD" alt="Figma" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Keep going" />
+</p>
 
 ## Connect
 
@@ -106,7 +102,11 @@ I am open to thoughtful collaborations and opportunities across **architecture +
   <a href="mailto:rabiee.niloo@gmail.com"><b>Email</b></a>
 </p>
 
----
+<br/>
+
+<p align="center">
+  <img src="./assets/rabbit-door-v1.svg" width="100%" alt="Curiosity is a door" />
+</p>
 
 <p align="center">
   <sub>Designed and curated by <b>Niloufar Rabiee</b> · 2026</sub>
