@@ -30,7 +30,32 @@ That question connects most of my work: from spatial interfaces and affective in
   <img src="./assets/system-map.svg" width="100%" alt="Niloufar Rabiee research and design system map" />
 </p>
 
-## `02 / selected work`
+## `02 / research atlas`
+
+This profile is the public surface of a larger research system. I use the atlas to connect work across **responsive environments, human–AI interaction, memory and continuity, language and meaning, speculative systems, and experimental products** without treating each project as an isolated object.
+
+<p align="center">
+  <a href="./research/RESEARCH_ATLAS.md"><b>EXPLORE THE RESEARCH ATLAS</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="./research/RESEARCH_VOCABULARY.md"><b>RESEARCH VOCABULARY</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="./research/DISCLOSURE_POLICY.md"><b>DISCLOSURE POLICY</b></a>
+</p>
+
+```text
+RESPONSIVE ENVIRONMENTS ─┐
+HUMAN–AI INTERACTION ────┤
+MEMORY & CONTINUITY ─────┼──→ PERCEPTION · PRESENCE · AGENCY
+LANGUAGE & MEANING ──────┤    ADAPTATION · CONTINUITY · MEANING
+SPECULATIVE SYSTEMS ─────┤    RESTRAINT · SPATIAL INTELLIGENCE
+EXPERIMENTAL PRODUCTS ───┘
+```
+
+Some research remains intentionally abstract or undisclosed while provenance, publication, academic, privacy, or IP considerations are active.
+
+<br/>
+
+## `03 / selected work`
 
 <p align="center">
   <sub>PUBLIC-FACING PROJECTS / SELECTED</sub>
@@ -47,7 +72,7 @@ That question connects most of my work: from spatial interfaces and affective in
 
 <br/>
 
-## `03 / how I build`
+## `04 / how I build`
 
 <p align="center">
   <img src="./assets/build-loop.svg" width="100%" alt="Niloufar Rabiee research to prototype loop" />
@@ -57,7 +82,7 @@ I prefer a **research → prototype → evidence → refinement** workflow. A co
 
 <br/>
 
-## `04 / operating principles`
+## `05 / operating principles`
 
 ```text
 01  HUMAN FIRST        technology should clarify, not compete for attention
@@ -69,7 +94,7 @@ I prefer a **research → prototype → evidence → refinement** workflow. A co
 
 <br/>
 
-## `05 / working stack`
+## `06 / working stack`
 
 **Build**
 
@@ -95,7 +120,7 @@ I prefer a **research → prototype → evidence → refinement** workflow. A co
 
 <br/>
 
-## `06 / current signal`
+## `07 / current signal`
 
 <table>
 <tr>
@@ -122,7 +147,7 @@ The interface is where a technical system becomes a human experience — or fail
 
 <br/>
 
-## `07 / connect`
+## `08 / connect`
 
 I am interested in thoughtful collaborations across **human-centered AI, spatial computing, architecture + technology, affective interaction, accessibility, and experimental Apple-platform products**.
 
