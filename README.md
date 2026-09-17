@@ -95,11 +95,10 @@ The process is usually the same: **research → frame the problem → prototype 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloufarRabiee&layout=donut&langs_count=6&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=AFC0D7&icon_color=7DD3FC" width="42%" alt="Niloufar Rabiee public repository language mix" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NiloufarRabiee&show_icons=true&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=AFC0D7&icon_color=C084FC&include_all_commits=true&count_private=false" width="54%" alt="Niloufar Rabiee public GitHub statistics" />
+  <img src="./assets/public-code-snapshot-v1.svg" width="100%" alt="Niloufar Rabiee public repository code snapshot" />
 </p>
 
-<sub>Public repository activity only. Language charts reflect repository code composition, not skill level.</sub>
+<sub>Public repositories only. The footprint chart reflects GitHub-reported repository size, not skill level or code quality.</sub>
 
 <br/>
 
