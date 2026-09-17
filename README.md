@@ -1,3 +1,5 @@
+> y = 1 if at least one x_i = 1; otherwise y = 0 — equivalently, y = 1 − ∏ (1 − x_i), with x_i ∈ {0,1}.
+
 <p align="center">
   <img src="./assets/research-universe-hero.svg" width="100%" alt="Niloufar Rabiee — Research Universe" />
 </p>
