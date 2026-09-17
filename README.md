@@ -20,6 +20,16 @@ I am interested in technology that feels thoughtful rather than loud — systems
 
 That question connects much of what I build.
 
+<br/>
+
+## Public research map
+
+This is a deliberately high-level view of my practice. It shows the fields I work across without exposing unpublished or sensitive project details.
+
+<p align="center">
+  <img src="./assets/public-research-map-v3.svg" width="100%" alt="Niloufar Rabiee public research map" />
+</p>
+
 <p align="center">
   <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Follow the white rabbit" />
 </p>
