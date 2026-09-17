@@ -1,71 +1,73 @@
 <svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="560" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#03101A"/>
-      <stop offset="0.50" stop-color="#081321"/>
-      <stop offset="1" stop-color="#10081C"/>
+      <stop stop-color="#030812"/>
+      <stop offset=".52" stop-color="#07101B"/>
+      <stop offset="1" stop-color="#0D0718"/>
     </linearGradient>
-    <linearGradient id="accent" x1="90" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5EEAD4"/>
-      <stop offset="0.50" stop-color="#7DD3FC"/>
+    <linearGradient id="accent" x1="78" y1="0" x2="1118" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61F5D5"/>
+      <stop offset=".50" stop-color="#7DD3FC"/>
       <stop offset="1" stop-color="#C084FC"/>
     </linearGradient>
-    <radialGradient id="planetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(972 270) rotate(90) scale(220)">
-      <stop stop-color="#7DD3FC" stop-opacity=".12"/>
-      <stop offset=".55" stop-color="#C084FC" stop-opacity=".07"/>
-      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    <radialGradient id="planet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1008 184) rotate(137) scale(185 180)">
+      <stop stop-color="#1B3554"/>
+      <stop offset=".48" stop-color="#0B1D31"/>
+      <stop offset=".82" stop-color="#050B14"/>
+      <stop offset="1" stop-color="#02050A"/>
     </radialGradient>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" stroke="#94A3B8" stroke-opacity=".035"/>
+    <radialGradient id="portal" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(985 357) rotate(90) scale(117 84)">
+      <stop stop-color="#6E5CFF" stop-opacity=".30"/>
+      <stop offset=".42" stop-color="#37286E" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#090713" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" stroke="#9EB0C6" stroke-opacity=".025"/>
     </pattern>
   </defs>
 
   <rect width="1200" height="560" rx="32" fill="url(#bg)"/>
   <rect width="1200" height="560" rx="32" fill="url(#grid)"/>
-  <rect width="1200" height="560" rx="32" fill="url(#planetGlow)"/>
 
-  <g opacity=".62">
-    <circle cx="84" cy="68" r="1.2" fill="#F8FAFC"/>
-    <circle cx="149" cy="112" r="1.4" fill="#5EEAD4"/>
-    <circle cx="274" cy="74" r="1.0" fill="#C084FC"/>
-    <circle cx="423" cy="112" r="1.2" fill="#F8FAFC"/>
-    <circle cx="610" cy="72" r="1.2" fill="#7DD3FC"/>
-    <circle cx="744" cy="116" r="1.2" fill="#F8FAFC"/>
-    <circle cx="1088" cy="88" r="1.3" fill="#C084FC"/>
-    <circle cx="1118" cy="170" r="1.1" fill="#5EEAD4"/>
-    <circle cx="102" cy="472" r="1.2" fill="#7DD3FC"/>
-    <circle cx="322" cy="492" r="1.2" fill="#F8FAFC"/>
-    <circle cx="661" cy="486" r="1.0" fill="#C084FC"/>
-    <circle cx="1104" cy="468" r="1.3" fill="#5EEAD4"/>
+  <g opacity=".68">
+    <circle cx="80" cy="58" r="1.1" fill="#FFFFFF"/>
+    <circle cx="148" cy="107" r="1.3" fill="#7DD3FC"/>
+    <circle cx="260" cy="70" r="1.0" fill="#C084FC"/>
+    <circle cx="391" cy="103" r="1.2" fill="#F8FAFC"/>
+    <circle cx="558" cy="61" r="1.2" fill="#61F5D5"/>
+    <circle cx="692" cy="110" r="1.0" fill="#FFFFFF"/>
+    <circle cx="814" cy="70" r="1.2" fill="#7DD3FC"/>
+    <circle cx="1067" cy="61" r="1.3" fill="#C084FC"/>
+    <circle cx="1126" cy="134" r="1.0" fill="#61F5D5"/>
+    <circle cx="96" cy="473" r="1.2" fill="#7DD3FC"/>
+    <circle cx="308" cy="492" r="1.1" fill="#FFFFFF"/>
+    <circle cx="643" cy="473" r="1.0" fill="#C084FC"/>
   </g>
 
-  <g stroke="#CBD5E1" stroke-opacity=".14">
-    <path d="M64 58H114M64 58V108"/>
-    <path d="M1136 58H1086M1136 58V108"/>
-    <path d="M64 502H114M64 502V452"/>
-    <path d="M1136 502H1086M1136 502V452"/>
-  </g>
-
-  <text x="82" y="100" fill="#6C7D95"
+  <text x="78" y="99" fill="#72839A"
         font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
-        font-size="12" font-weight="700" letter-spacing="2.8">
+        font-size="12" font-weight="700" letter-spacing="2.7">
     NILOUFAR RABIEE / RESEARCH UNIVERSE / 2026
   </text>
 
-  <rect x="82" y="126" width="440" height="3" rx="1.5" fill="url(#accent)"/>
+  <rect x="78" y="124" width="430" height="3" rx="1.5" fill="url(#accent)"/>
 
-  <text x="82" y="210" fill="#F8FAFC"
+  <text x="78" y="205" fill="#F8FAFC"
         font-family="Inter,Arial,sans-serif"
-        font-size="62" font-weight="800" letter-spacing="-2.2">
+        font-size="61" font-weight="800" letter-spacing="-2.2">
     I build systems
   </text>
-  <text x="82" y="278" fill="#F8FAFC"
+  <text x="78" y="272" fill="#F8FAFC"
         font-family="Inter,Arial,sans-serif"
-        font-size="62" font-weight="800" letter-spacing="-2.2">
+        font-size="61" font-weight="800" letter-spacing="-2.2">
     between worlds.
   </text>
 
-  <text x="84" y="332" fill="#AFC0D7"
+  <text x="80" y="327" fill="#AFC0D7"
         font-family="Inter,Arial,sans-serif"
         font-size="18" font-weight="520">
     architecture × human-centered AI × interaction design
@@ -73,74 +75,71 @@
 
   <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
      font-size="10.5" font-weight="700" letter-spacing="1.25">
-    <g transform="translate(84 384)">
-      <rect width="144" height="38" rx="19"
-            fill="#5EEAD4" fill-opacity=".055"
-            stroke="#5EEAD4" stroke-opacity=".28"/>
-      <circle cx="20" cy="19" r="4" fill="#5EEAD4"/>
-      <text x="83" y="24" text-anchor="middle" fill="#A7F3D0">PERCEPTION</text>
+    <g transform="translate(78 380)">
+      <rect width="130" height="38" rx="19" fill="#61F5D5" fill-opacity=".045" stroke="#61F5D5" stroke-opacity=".25"/>
+      <text x="65" y="24" text-anchor="middle" fill="#A8F6E5">PEOPLE</text>
     </g>
-
-    <g transform="translate(244 384)">
-      <rect width="144" height="38" rx="19"
-            fill="#7DD3FC" fill-opacity=".055"
-            stroke="#7DD3FC" stroke-opacity=".28"/>
-      <circle cx="20" cy="19" r="4" fill="#7DD3FC"/>
-      <text x="82" y="24" text-anchor="middle" fill="#BAE6FD">PRESENCE</text>
+    <g transform="translate(224 380)">
+      <rect width="130" height="38" rx="19" fill="#7DD3FC" fill-opacity=".045" stroke="#7DD3FC" stroke-opacity=".25"/>
+      <text x="65" y="24" text-anchor="middle" fill="#C1EAFB">PLACES</text>
     </g>
-
-    <g transform="translate(404 384)">
-      <rect width="144" height="38" rx="19"
-            fill="#C084FC" fill-opacity=".055"
-            stroke="#C084FC" stroke-opacity=".28"/>
-      <circle cx="20" cy="19" r="4" fill="#C084FC"/>
-      <text x="81" y="24" text-anchor="middle" fill="#E9D5FF">MEANING</text>
+    <g transform="translate(370 380)">
+      <rect width="156" height="38" rx="19" fill="#C084FC" fill-opacity=".045" stroke="#C084FC" stroke-opacity=".25"/>
+      <text x="78" y="24" text-anchor="middle" fill="#E7D5FE">POSSIBILITIES</text>
     </g>
   </g>
 
-  <g transform="translate(972 272)">
-    <circle r="160" fill="#06101B" stroke="#7DD3FC" stroke-opacity=".10"/>
-    <circle r="132" fill="#081321" stroke="#C084FC" stroke-opacity=".12"/>
-    <path d="M-130 -8C-84 -118 55 -150 128 -65C176 -9 164 82 95 128C25 174 -83 153 -127 82C-144 54 -147 22 -130 -8Z"
-          fill="#081523" stroke="url(#accent)" stroke-opacity=".72" stroke-width="1.4"/>
-    <path d="M-142 62C-65 12 43 2 135 54" stroke="#7DD3FC" stroke-opacity=".20" stroke-width="1.1"/>
-    <path d="M-136 74C-40 115 60 112 138 62" stroke="#C084FC" stroke-opacity=".16" stroke-width="1"/>
-    <circle cx="62" cy="88" r="35" fill="#09101D" stroke="#7DD3FC" stroke-opacity=".34"/>
-    <circle cx="62" cy="88" r="20" fill="#0A1220" stroke="#C084FC" stroke-opacity=".28"/>
-    <path d="M0 -122V122M-122 0H122" stroke="#D5DEEA" stroke-opacity=".05"/>
-    <circle r="4" fill="#F8FAFC"/>
+  <!-- planet -->
+  <circle cx="992" cy="182" r="145" fill="url(#planet)" stroke="#7DD3FC" stroke-opacity=".16"/>
+  <path d="M876 96C915 55 990 31 1055 57C1106 78 1139 125 1140 178C1141 226 1113 271 1071 296C1090 261 1097 223 1087 188C1073 136 1026 96 972 88C939 83 906 87 876 96Z"
+        fill="#06101B" fill-opacity=".82"/>
+  <path d="M880 95C935 73 1006 80 1054 119"
+        stroke="#7DD3FC" stroke-opacity=".22" stroke-width="1.5"/>
 
-    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
-       font-size="8.4" font-weight="700" letter-spacing="1">
-      <circle cx="0" cy="-150" r="4" fill="#5EEAD4"/>
-      <text x="0" y="-165" text-anchor="middle" fill="#9DE8DD">ENVIRONMENT</text>
-
-      <circle cx="145" cy="-35" r="4" fill="#7DD3FC"/>
-      <text x="160" y="-31" fill="#BDE8FB">HUMAN–AI</text>
-
-      <circle cx="118" cy="112" r="4" fill="#C084FC"/>
-      <text x="133" y="116" fill="#E9D5FF">MEMORY</text>
-
-      <circle cx="-118" cy="112" r="4" fill="#7DD3FC"/>
-      <text x="-133" y="116" text-anchor="end" fill="#BAE6FD">LANGUAGE</text>
-
-      <circle cx="-145" cy="-35" r="4" fill="#C084FC"/>
-      <text x="-160" y="-31" text-anchor="end" fill="#E9D5FF">SPECULATIVE</text>
-    </g>
+  <!-- portal -->
+  <g>
+    <ellipse cx="985" cy="357" rx="103" ry="130" fill="url(#portal)"/>
+    <path d="M927 438V335C927 295 953 269 985 269C1017 269 1043 295 1043 335V438"
+          stroke="url(#accent)" stroke-width="2.2" fill="none" filter="url(#glow)"/>
+    <path d="M941 437V338C941 307 960 287 985 287C1010 287 1029 307 1029 338V437"
+          stroke="#F4F7FF" stroke-opacity=".22" stroke-width="1.1"/>
+    <circle cx="985" cy="330" r="3.2" fill="#FFFFFF" filter="url(#glow)"/>
+    <circle cx="967" cy="355" r="1.5" fill="#7DD3FC"/>
+    <circle cx="1002" cy="374" r="1.3" fill="#C084FC"/>
+    <circle cx="991" cy="397" r="1.1" fill="#FFFFFF"/>
+    <path d="M958 385C972 371 992 369 1009 380"
+          stroke="#7DD3FC" stroke-opacity=".25"/>
+    <path d="M971 405C984 392 1001 394 1010 405"
+          stroke="#C084FC" stroke-opacity=".22"/>
   </g>
 
-  <text x="83" y="516" fill="#53667F"
+  <!-- ground / reflection -->
+  <path d="M642 438C737 415 813 421 885 440C954 458 1039 460 1138 433V560H642Z"
+        fill="#03070C" fill-opacity=".90"/>
+  <path d="M692 468C820 438 978 440 1110 468"
+        stroke="#7DD3FC" stroke-opacity=".20"/>
+  <ellipse cx="986" cy="453" rx="108" ry="17" stroke="#7DD3FC" stroke-opacity=".22"/>
+  <ellipse cx="986" cy="454" rx="76" ry="9" stroke="#C084FC" stroke-opacity=".18"/>
+
+  <!-- celestial guide -->
+  <path d="M985 66V250" stroke="#D7E1EE" stroke-opacity=".16"/>
+  <path d="M977 92H993M985 84V100" stroke="#F8FAFC" stroke-width="1.2" filter="url(#glow)"/>
+  <circle cx="985" cy="125" r="2.5" fill="#61F5D5"/>
+  <path d="M974 155C977 165 984 170 993 170C987 175 982 177 976 174C970 170 968 163 974 155Z"
+        fill="#7DD3FC" fill-opacity=".75"/>
+  <circle cx="985" cy="211" r="2.3" fill="#C084FC"/>
+
+  <text x="79" y="516" fill="#586A81"
         font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
         font-size="10" font-weight="700" letter-spacing="1.8">
     PUBLIC SURFACE / PRIVATE DEPTH / PROVENANCE FIRST
   </text>
 
-  <text x="1118" y="516" text-anchor="end" fill="#53667F"
+  <text x="1118" y="516" text-anchor="end" fill="#586A81"
         font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
         font-size="10" font-weight="700" letter-spacing="1.8">
     NR-LAB / ATLAS 01
   </text>
 
-  <rect x="1" y="1" width="1198" height="558" rx="31"
-        stroke="#E2E8F0" stroke-opacity=".08"/>
+  <rect x="1" y="1" width="1198" height="558" rx="31" stroke="#E2E8F0" stroke-opacity=".07"/>
 </svg>
