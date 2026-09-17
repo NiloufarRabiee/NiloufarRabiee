@@ -27,27 +27,13 @@ That question connects much of what I build.
 ## Selected public work
 
 <p align="center">
-  <a href="https://apps.apple.com/it/app/feelprint/id6746127790?l=en-GB">
-    <img src="./assets/card-feelprint.svg" width="84%" alt="FeelPrint by Niloufar Rabiee" />
-  </a>
+  <a href="https://apps.apple.com/it/app/feelprint/id6746127790?l=en-GB"><img src="./assets/card-feelprint.svg" width="49%" alt="FeelPrint by Niloufar Rabiee" /></a>
+  <a href="https://apps.apple.com/it/app/one-button-decision-maker/id6743403533?l=en-GB"><img src="./assets/card-onebutton.svg" width="49%" alt="One Button Decision Maker by Niloufar Rabiee" /></a>
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/it/app/one-button-decision-maker/id6743403533?l=en-GB">
-    <img src="./assets/card-onebutton.svg" width="84%" alt="One Button Decision Maker by Niloufar Rabiee" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:rabiee.niloo@gmail.com?subject=MoodShift%20TestFlight%20Invite%20Request">
-    <img src="./assets/card-moodshift.svg" width="84%" alt="MoodShift by Niloufar Rabiee" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces">
-    <img src="./assets/card-ecosphier-masky.svg" width="84%" alt="Selected UX and interaction design work by Niloufar Rabiee" />
-  </a>
+  <a href="mailto:rabiee.niloo@gmail.com?subject=MoodShift%20TestFlight%20Invite%20Request"><img src="./assets/card-moodshift.svg" width="49%" alt="MoodShift by Niloufar Rabiee" /></a>
+  <a href="https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces"><img src="./assets/card-ecosphier-masky.svg" width="49%" alt="Selected UX and interaction design work by Niloufar Rabiee" /></a>
 </p>
 
 <p align="center">
