@@ -1,0 +1,17 @@
+<svg width="1200" height="132" viewBox="0 0 1200 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="trail" x1="50" y1="0" x2="1150" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CFFB2" stop-opacity="0"/><stop offset="0.25" stop-color="#7CFFB2" stop-opacity="0.5"/>
+      <stop offset="0.58" stop-color="#B64CFF" stop-opacity="0.68"/><stop offset="0.85" stop-color="#FF5EC8" stop-opacity="0.55"/><stop offset="1" stop-color="#FF5EC8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <path d="M60 78C253 34 424 107 594 69C754 33 890 37 1142 79" stroke="url(#trail)" stroke-width="1.4" stroke-dasharray="4 9"/>
+  <g transform="translate(75 74)"><g filter="url(#glow)">
+    <ellipse cx="0" cy="0" rx="18" ry="10.5" fill="#FFFFFF"/><circle cx="19" cy="-8" r="8.5" fill="#FFFFFF"/>
+    <ellipse cx="17" cy="-23" rx="3" ry="11" fill="#FFFFFF" transform="rotate(-12 17 -23)"/><ellipse cx="24" cy="-22" rx="3" ry="11" fill="#FFF5FC" transform="rotate(9 24 -22)"/>
+    <circle cx="-18" cy="-2" r="5.5" fill="#FFFFFF"/><circle cx="22" cy="-9" r="1.4" fill="#17111D"/>
+    <animateMotion dur="7s" repeatCount="indefinite" rotate="auto" path="M0 0 C185 -39 345 32 515 -5 C685 -44 870 -32 1050 3"/>
+  </g></g>
+  <text x="600" y="122" text-anchor="middle" fill="#655A77" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-style="italic" letter-spacing="2">keep going</text>
+</svg>
