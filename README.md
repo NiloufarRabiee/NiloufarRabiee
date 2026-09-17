@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/rabbit-hole-hero-v1.svg" width="100%" alt="Niloufar Rabiee — Follow the white rabbit" />
+  <img src="./assets/research-universe-hero.svg" width="100%" alt="Niloufar Rabiee — Research Universe" />
 </p>
 
 <p align="center">
