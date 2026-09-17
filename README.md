@@ -22,12 +22,12 @@ That question connects much of what I build.
 
 <br/>
 
-## Public research map
+## Fields in orbit
 
-This is a deliberately high-level view of my practice. It shows the fields I work across without exposing unpublished or sensitive project details.
+A public glimpse of the fields I move between — intentionally broad, with unpublished and sensitive work kept off the surface.
 
 <p align="center">
-  <img src="./assets/public-research-map-v3.svg" width="100%" alt="Niloufar Rabiee public research map" />
+  <img src="./assets/fields-in-orbit-v1.svg" width="100%" alt="Niloufar Rabiee fields in orbit" />
 </p>
 
 <p align="center">
