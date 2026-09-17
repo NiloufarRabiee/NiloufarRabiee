@@ -1,0 +1,74 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#03040A"/>
+      <stop offset="0.45" stop-color="#080711"/>
+      <stop offset="1" stop-color="#10051C"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 260) rotate(90) scale(245)">
+      <stop stop-color="#B445FF" stop-opacity="0.25"/>
+      <stop offset="0.48" stop-color="#7A1BFF" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="greenGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(852 240) rotate(90) scale(195)">
+      <stop stop-color="#55FFB0" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="neon" x1="650" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CFFB2"/>
+      <stop offset="0.48" stop-color="#B64CFF"/>
+      <stop offset="1" stop-color="#FF5EC8"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="520" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="30" fill="url(#violetGlow)"/>
+  <rect width="1200" height="520" rx="30" fill="url(#greenGlow)"/>
+  <g opacity="0.7">
+    <circle cx="78" cy="62" r="1.2" fill="#D7C4FF"/><circle cx="147" cy="118" r="1.5" fill="#7CFFB2"/>
+    <circle cx="256" cy="72" r="1.1" fill="#FF5EC8"/><circle cx="425" cy="109" r="1.3" fill="#FFFFFF"/>
+    <circle cx="569" cy="70" r="1.0" fill="#B64CFF"/><circle cx="650" cy="132" r="1.2" fill="#7CFFB2"/>
+    <circle cx="1108" cy="72" r="1.3" fill="#FF5EC8"/><circle cx="1137" cy="198" r="1.0" fill="#7CFFB2"/>
+    <circle cx="84" cy="449" r="1.1" fill="#FF5EC8"/><circle cx="373" cy="466" r="1.4" fill="#FFFFFF"/>
+    <circle cx="669" cy="447" r="1.1" fill="#B64CFF"/>
+  </g>
+  <text x="84" y="96" fill="#7CFFB2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="3.1">NILOUFAR RABIEE / 2026</text>
+  <text x="84" y="187" fill="#FBF8FF" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">Follow the</text>
+  <text x="84" y="257" fill="#FBF8FF" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">white rabbit.</text>
+  <text x="88" y="310" fill="#B6B1C7" font-family="Inter, Arial, sans-serif" font-size="18">architecture  ·  human-centered AI  ·  interaction design</text>
+  <path d="M86 349C238 326 386 337 540 375" stroke="url(#neon)" stroke-opacity="0.72" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="86" cy="349" r="4" fill="#7CFFB2" filter="url(#glow)"/>
+  <text x="86" y="399" fill="#9F97B5" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" letter-spacing="2">same questions · deeper worlds</text>
+  <text x="86" y="458" fill="#685F7B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="2.2">EXPLORE  /  RESEARCH  /  DESIGN  /  REPEAT</text>
+  <g transform="translate(935 260)">
+    <ellipse rx="210" ry="203" fill="#B64CFF" fill-opacity="0.025"/>
+    <ellipse rx="198" ry="191" stroke="#B64CFF" stroke-opacity="0.11"/>
+    <ellipse rx="174" ry="166" stroke="#7CFFB2" stroke-opacity="0.12" stroke-width="1.2" stroke-dasharray="2 12"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></ellipse>
+    <ellipse rx="148" ry="141" stroke="#B64CFF" stroke-opacity="0.3" stroke-width="2.3" stroke-dasharray="4 10" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="16s" repeatCount="indefinite"/></ellipse>
+    <ellipse rx="119" ry="113" stroke="#FF5EC8" stroke-opacity="0.31" stroke-width="1.5" stroke-dasharray="2 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="11s" repeatCount="indefinite"/></ellipse>
+    <ellipse rx="91" ry="86" stroke="#7CFFB2" stroke-opacity="0.36" stroke-width="1.8" stroke-dasharray="5 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/></ellipse>
+    <ellipse rx="66" ry="62" fill="#06040C" stroke="#B64CFF" stroke-opacity="0.45"/>
+    <rect x="-23" y="-31" width="46" height="62" rx="3" fill="#090612" stroke="url(#neon)" stroke-opacity="0.65"/>
+    <path d="M0 -13V13M-13 0H13" stroke="#FF7AD7" stroke-width="1.5" filter="url(#glow)"/>
+    <circle r="2.4" fill="#FFFFFF" filter="url(#glow)"/>
+  </g>
+  <path d="M592 347C724 425 945 431 1088 333" stroke="#B64CFF" stroke-opacity="0.15" stroke-width="1.5"/>
+  <path d="M641 331C773 390 954 387 1078 303" stroke="#7CFFB2" stroke-opacity="0.17" stroke-width="1.2"/>
+  <g transform="translate(650 350)"><g filter="url(#glow)">
+    <ellipse cx="0" cy="0" rx="34" ry="20" fill="#FAFAFF"/><circle cx="35" cy="-14" r="16" fill="#FFFFFF"/>
+    <ellipse cx="31" cy="-42" rx="5.5" ry="22" fill="#FFFFFF" transform="rotate(-12 31 -42)"/>
+    <ellipse cx="44" cy="-40" rx="5.5" ry="21" fill="#FFF7FD" transform="rotate(9 44 -40)"/>
+    <ellipse cx="-21" cy="15" rx="17" ry="7" fill="#F7F6FF" transform="rotate(-10 -21 15)"/>
+    <ellipse cx="26" cy="13" rx="12" ry="5" fill="#F9F8FF" transform="rotate(-18 26 13)"/>
+    <circle cx="-35" cy="-3" r="10" fill="#FFFFFF"/><circle cx="40" cy="-17" r="2.6" fill="#15111C"/>
+    <ellipse cx="44" cy="-41" rx="2.2" ry="15" fill="#FFB6DF" fill-opacity="0.7" transform="rotate(9 44 -40)"/>
+    <ellipse cx="31" cy="-43" rx="2.2" ry="16" fill="#FFB6DF" fill-opacity="0.55" transform="rotate(-12 31 -42)"/>
+    <animateMotion dur="8.5s" repeatCount="indefinite" rotate="auto" path="M0 0 C100 50 190 50 247 -5 C290 -47 270 -92 213 -110 C150 -130 89 -105 71 -61 C49 -8 116 33 203 14 C289 -5 356 -67 416 -135"/>
+    <animate attributeName="opacity" values="0;1;1;1;0.15" keyTimes="0;0.08;0.72;0.9;1" dur="8.5s" repeatCount="indefinite"/>
+  </g></g>
+  <text x="1110" y="486" text-anchor="end" fill="#5B526E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" font-weight="700" letter-spacing="1.8">NR / DOWN THE RABBIT HOLE</text>
+  <rect x="1" y="1" width="1198" height="518" rx="29" stroke="#D8C5FF" stroke-opacity="0.08"/>
+</svg>
