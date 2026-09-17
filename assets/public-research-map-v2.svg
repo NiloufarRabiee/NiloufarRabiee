@@ -1,0 +1,64 @@
+<svg width="1200" height="410" viewBox="0 0 1200 410" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071019"/>
+      <stop offset="1" stop-color="#0F1327"/>
+    </linearGradient>
+    <linearGradient id="line" x1="150" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.5" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="410" rx="26" fill="url(#bg)"/>
+  <text x="60" y="42" fill="#6F8098" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">PUBLIC RESEARCH MAP</text>
+
+  <g stroke="url(#line)" stroke-opacity="0.30" stroke-width="1.5">
+    <line x1="600" y1="205" x2="350" y2="102"/>
+    <line x1="600" y1="205" x2="852" y2="102"/>
+    <line x1="600" y1="205" x2="978" y2="205"/>
+    <line x1="600" y1="205" x2="852" y2="308"/>
+    <line x1="600" y1="205" x2="350" y2="308"/>
+    <line x1="600" y1="205" x2="222" y2="205"/>
+  </g>
+
+  <circle cx="600" cy="205" r="58" fill="#0A1120" stroke="url(#line)" stroke-width="1.5"/>
+  <text x="600" y="197" text-anchor="middle" fill="#F8FAFC" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">Niloufar</text>
+  <text x="600" y="221" text-anchor="middle" fill="#8FA0B7" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.1">research core</text>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <g>
+      <rect x="250" y="66" width="214" height="72" rx="16" fill="#0C1423" stroke="#7DD3FC" stroke-opacity="0.26"/>
+      <text x="357" y="94" text-anchor="middle" fill="#BDE8FB" font-size="14" font-weight="700">Human-centered AI</text>
+      <text x="357" y="116" text-anchor="middle" fill="#97A8BD" font-size="11">behavior • interaction • care</text>
+    </g>
+    <g>
+      <rect x="742" y="66" width="192" height="72" rx="16" fill="#0C1423" stroke="#C4B5FD" stroke-opacity="0.26"/>
+      <text x="838" y="94" text-anchor="middle" fill="#E7DCFE" font-size="14" font-weight="700">Interaction Design</text>
+      <text x="838" y="116" text-anchor="middle" fill="#97A8BD" font-size="11">interfaces • experience</text>
+    </g>
+    <g>
+      <rect x="850" y="169" width="206" height="72" rx="16" fill="#0C1423" stroke="#7DD3FC" stroke-opacity="0.26"/>
+      <text x="953" y="197" text-anchor="middle" fill="#BDE8FB" font-size="14" font-weight="700">Apple Prototypes</text>
+      <text x="953" y="219" text-anchor="middle" fill="#97A8BD" font-size="11">SwiftUI • experiments</text>
+    </g>
+    <g>
+      <rect x="726" y="272" width="224" height="72" rx="16" fill="#0C1423" stroke="#C4B5FD" stroke-opacity="0.26"/>
+      <text x="838" y="300" text-anchor="middle" fill="#E7DCFE" font-size="14" font-weight="700">Independent Research</text>
+      <text x="838" y="322" text-anchor="middle" fill="#97A8BD" font-size="11">questions • papers • concepts</text>
+    </g>
+    <g>
+      <rect x="250" y="272" width="200" height="72" rx="16" fill="#0C1423" stroke="#5EEAD4" stroke-opacity="0.26"/>
+      <text x="350" y="300" text-anchor="middle" fill="#A7F3D0" font-size="14" font-weight="700">Experimental Work</text>
+      <text x="350" y="322" text-anchor="middle" fill="#97A8BD" font-size="11">small products • tests</text>
+    </g>
+    <g>
+      <rect x="118" y="169" width="204" height="72" rx="16" fill="#0C1423" stroke="#5EEAD4" stroke-opacity="0.26"/>
+      <text x="220" y="197" text-anchor="middle" fill="#A7F3D0" font-size="14" font-weight="700">Spatial Systems</text>
+      <text x="220" y="219" text-anchor="middle" fill="#97A8BD" font-size="11">architecture • urban design</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="408" rx="25" stroke="#E2E8F0" stroke-opacity="0.06"/>
+</svg>
