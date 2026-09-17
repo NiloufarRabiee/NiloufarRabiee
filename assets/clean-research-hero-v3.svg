@@ -1,0 +1,130 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030812"/>
+      <stop offset="0.52" stop-color="#07101B"/>
+      <stop offset="1" stop-color="#0D0718"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="78" y1="0" x2="1118" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61F5D5"/>
+      <stop offset="0.50" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" stroke="#9EB0C6" stroke-opacity="0.025"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="560" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="560" rx="32" fill="url(#grid)"/>
+
+  <g opacity="0.68">
+    <circle cx="80" cy="58" r="1.1" fill="#FFFFFF"/>
+    <circle cx="148" cy="107" r="1.3" fill="#7DD3FC"/>
+    <circle cx="260" cy="70" r="1.0" fill="#C084FC"/>
+    <circle cx="391" cy="103" r="1.2" fill="#F8FAFC"/>
+    <circle cx="558" cy="61" r="1.2" fill="#61F5D5"/>
+    <circle cx="692" cy="110" r="1.0" fill="#FFFFFF"/>
+    <circle cx="814" cy="70" r="1.2" fill="#7DD3FC"/>
+    <circle cx="1067" cy="61" r="1.3" fill="#C084FC"/>
+    <circle cx="1126" cy="134" r="1.0" fill="#61F5D5"/>
+    <circle cx="96" cy="473" r="1.2" fill="#7DD3FC"/>
+    <circle cx="308" cy="492" r="1.1" fill="#FFFFFF"/>
+    <circle cx="643" cy="473" r="1.0" fill="#C084FC"/>
+    <circle cx="1088" cy="468" r="1.2" fill="#61F5D5"/>
+  </g>
+
+  <g stroke="#CBD5E1" stroke-opacity="0.14">
+    <path d="M64 58H114M64 58V108"/>
+    <path d="M1136 58H1086M1136 58V108"/>
+    <path d="M64 502H114M64 502V452"/>
+    <path d="M1136 502H1086M1136 502V452"/>
+  </g>
+
+  <text x="78" y="99"
+        fill="#72839A"
+        font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="12"
+        font-weight="700"
+        letter-spacing="2.7">
+    NILOUFAR RABIEE / RESEARCH UNIVERSE / 2026
+  </text>
+
+  <rect x="78" y="124" width="430" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="78" y="205"
+        fill="#F8FAFC"
+        font-family="Inter,Arial,sans-serif"
+        font-size="61"
+        font-weight="800"
+        letter-spacing="-2.2">
+    I build systems
+  </text>
+
+  <text x="78" y="272"
+        fill="#F8FAFC"
+        font-family="Inter,Arial,sans-serif"
+        font-size="61"
+        font-weight="800"
+        letter-spacing="-2.2">
+    between worlds.
+  </text>
+
+  <text x="80" y="327"
+        fill="#AFC0D7"
+        font-family="Inter,Arial,sans-serif"
+        font-size="18"
+        font-weight="520">
+    architecture × human-centered AI × interaction design
+  </text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+     font-size="10.5"
+     font-weight="700"
+     letter-spacing="1.25">
+    <g transform="translate(78 380)">
+      <rect width="130" height="38" rx="19"
+            fill="#61F5D5" fill-opacity="0.045"
+            stroke="#61F5D5" stroke-opacity="0.25"/>
+      <text x="65" y="24" text-anchor="middle" fill="#A8F6E5">PEOPLE</text>
+    </g>
+
+    <g transform="translate(224 380)">
+      <rect width="130" height="38" rx="19"
+            fill="#7DD3FC" fill-opacity="0.045"
+            stroke="#7DD3FC" stroke-opacity="0.25"/>
+      <text x="65" y="24" text-anchor="middle" fill="#C1EAFB">PLACES</text>
+    </g>
+
+    <g transform="translate(370 380)">
+      <rect width="156" height="38" rx="19"
+            fill="#C084FC" fill-opacity="0.045"
+            stroke="#C084FC" stroke-opacity="0.25"/>
+      <text x="78" y="24" text-anchor="middle" fill="#E7D5FE">POSSIBILITIES</text>
+    </g>
+  </g>
+
+  <text x="79" y="516"
+        fill="#586A81"
+        font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="10"
+        font-weight="700"
+        letter-spacing="1.8">
+    PUBLIC SURFACE / PRIVATE DEPTH / PROVENANCE FIRST
+  </text>
+
+  <text x="1118" y="516"
+        text-anchor="end"
+        fill="#586A81"
+        font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="10"
+        font-weight="700"
+        letter-spacing="1.8">
+    NR-LAB / ATLAS 01
+  </text>
+
+  <rect x="1" y="1" width="1198" height="558" rx="31"
+        stroke="#E2E8F0" stroke-opacity="0.07"/>
+</svg>
