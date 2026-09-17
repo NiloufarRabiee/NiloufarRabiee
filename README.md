@@ -88,6 +88,21 @@ The process is usually the same: **research → frame the problem → prototype 
   <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Keep going" />
 </p>
 
+## GitHub snapshot
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiloufarRabiee&theme=transparent" width="100%" alt="Niloufar Rabiee GitHub activity summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloufarRabiee&layout=donut&langs_count=6&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=AFC0D7&icon_color=7DD3FC" width="42%" alt="Niloufar Rabiee public repository language mix" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NiloufarRabiee&show_icons=true&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=AFC0D7&icon_color=C084FC&include_all_commits=true&count_private=false" width="54%" alt="Niloufar Rabiee public GitHub statistics" />
+</p>
+
+<sub>Public repository activity only. Language charts reflect repository code composition, not skill level.</sub>
+
+<br/>
+
 ## Connect
 
 I am open to thoughtful collaborations and opportunities across **architecture + technology, human-centered AI, spatial computing, interaction design, and experimental digital products**.
