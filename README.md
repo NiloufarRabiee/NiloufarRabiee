@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/editorial-profile-hero.svg" width="100%" alt="Niloufar Rabiee — architecture, human-centered AI, interaction design and Apple platforms" />
+  <img src="./assets/editorial-profile-hero-v2.svg" width="100%" alt="Niloufar Rabiee — architecture, human-centered AI, interaction design and Apple platforms" />
 </p>
 
 <p align="center">
@@ -12,13 +12,23 @@
 
 ## About
 
-I am an architect and multidisciplinary designer working where **architecture, human-centered AI, interaction design, and digital products** meet.
+I am an architect and multidisciplinary designer working across **architecture, human-centered AI, interaction design, and digital products**.
 
-My work is shaped by a simple question:
+I am interested in technology that feels thoughtful rather than loud — systems that respond to context while keeping people in control.
 
 > **How can technology become more responsive without becoming more intrusive?**
 
-I am interested in systems that feel clear, calm, and useful — systems that understand context without taking human agency away.
+That question connects much of what I build.
+
+<br/>
+
+## Public research map
+
+This is a deliberately high-level view of my practice. It shows the fields I work across without exposing unpublished or sensitive project details.
+
+<p align="center">
+  <img src="./assets/public-research-map-v2.svg" width="100%" alt="Niloufar Rabiee public research map" />
+</p>
 
 <br/>
 
