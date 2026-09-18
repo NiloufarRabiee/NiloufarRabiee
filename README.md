@@ -45,7 +45,7 @@ A public glimpse of the fields I move between — intentionally broad, with unpu
 
 <p align="center">
   <a href="mailto:rabiee.niloo@gmail.com?subject=MoodShift%20TestFlight%20Invite%20Request"><img src="./assets/card-moodshift.svg" width="49%" alt="MoodShift by Niloufar Rabiee" /></a>
-  <a href="https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces"><img src="./assets/card-ecosphier-masky.svg" width="49%" alt="Selected UX and interaction design work by Niloufar Rabiee" /></a>
+  <a href="https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces"><img src="./assets/card-ecosphier-masky-v2.svg" width="49%" alt="Selected UX and interaction design work by Niloufar Rabiee" /></a>
 </p>
 
 <p align="center">
