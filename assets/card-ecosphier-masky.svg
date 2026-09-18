@@ -43,7 +43,7 @@
             stroke="#5EEAD4"
             stroke-width="3"
             stroke-opacity="0.95"/>
-    <path d="M62 108C73 124 88 132 104 132C120 132 135 124 145 109"
+    <path d="M61 95C70 108 82 115 96 115C110 115 122 108 131 95"
           fill="none"
           stroke="#5EEAD4"
           stroke-width="5"
