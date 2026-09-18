@@ -26,18 +26,28 @@
   </g>
 
   <g transform="translate(400 57)">
-    <circle cx="74" cy="98" r="58" fill="#0B1815" stroke="#5EEAD4" stroke-opacity="0.3"/>
-    <path d="M45 77C56 62 76 60 91 69C105 78 113 96 109 111C105 129 89 142 71 141C53 140 38 126 36 108C34 96 37 86 45 77Z" fill="#5EEAD4" fill-opacity="0.08" stroke="#5EEAD4" stroke-opacity="0.34"/>
-    <path d="M48 92C63 91 70 86 79 76C87 86 96 91 108 93" stroke="#5EEAD4" stroke-opacity="0.55" stroke-width="2"/>
-    <circle cx="61" cy="104" r="3.5" fill="#5EEAD4"/>
-    <circle cx="92" cy="104" r="3.5" fill="#5EEAD4"/>
-    <path d="M63 120C72 127 81 127 90 120" stroke="#F59E0B" stroke-width="2" stroke-linecap="round"/>
+    <defs>
+      <radialGradient id="smileGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                      gradientTransform="translate(96 98) rotate(90) scale(92)">
+        <stop stop-color="#5EEAD4" stop-opacity="0.18"/>
+        <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+      </radialGradient>
+      <filter id="smileSoftGlow" x="-60%" y="-60%" width="220%" height="220%">
+        <feGaussianBlur stdDeviation="8"/>
+      </filter>
+    </defs>
 
-    <circle cx="126" cy="92" r="47" fill="#18140B" stroke="#F59E0B" stroke-opacity="0.32"/>
-    <path d="M96 92C112 83 122 70 127 51C133 69 144 82 158 91C143 97 133 111 127 132C120 111 110 99 96 92Z" fill="#F59E0B" fill-opacity="0.11" stroke="#F59E0B" stroke-opacity="0.42"/>
-    <circle cx="126" cy="92" r="6" fill="#F59E0B"><animate attributeName="r" values="5;8;5" dur="2.6s" repeatCount="indefinite"/></circle>
-
-    <path d="M40 164C74 146 113 146 158 164" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="96" cy="98" r="78" fill="url(#smileGlow)" filter="url(#smileSoftGlow)"/>
+    <circle cx="96" cy="98" r="66"
+            fill="#071713"
+            stroke="#5EEAD4"
+            stroke-width="3"
+            stroke-opacity="0.95"/>
+    <path d="M62 108C73 124 88 132 104 132C120 132 135 124 145 109"
+          fill="none"
+          stroke="#5EEAD4"
+          stroke-width="5"
+          stroke-linecap="round"/>
   </g>
 
   <path d="M50 300H570" stroke="url(#accent)" stroke-opacity="0.42"/>
