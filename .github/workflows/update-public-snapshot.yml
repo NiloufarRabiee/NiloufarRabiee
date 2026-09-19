@@ -1,0 +1,35 @@
+name: Update public repository snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate public repository snapshot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_public_snapshot.py
+
+      - name: Commit snapshot when it changed
+        run: |
+          if git diff --quiet -- assets/public-code-snapshot-v1.svg; then
+            echo "No snapshot changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/public-code-snapshot-v1.svg
+          git commit -m "chore: refresh public repository snapshot"
+          git push
