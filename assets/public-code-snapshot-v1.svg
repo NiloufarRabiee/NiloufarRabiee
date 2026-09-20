@@ -1,5 +1,5 @@
 <svg width="1200" height="454" viewBox="0 0 1200 454" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- data-fingerprint: 1a0c72cd70e2feaa -->
+  <!-- data-fingerprint: 9aff6802251ea9fe -->
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="454" gradientUnits="userSpaceOnUse">
       <stop stop-color="#050A14"/>
@@ -19,13 +19,14 @@
   <g transform="translate(245 237)">
     <circle r="108" fill="#09111D" stroke="#E2E8F0" stroke-opacity=".06"/>
     <circle r="82" fill="none" stroke="#182333" stroke-width="26"/>
-    <circle r="82" fill="none" stroke="#5EEAD4" stroke-width="26" stroke-dasharray="325.29 189.93" stroke-dashoffset="0.00" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#7DD3FC" stroke-width="26" stroke-dasharray="121.35 393.87" stroke-dashoffset="-325.29" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#C084FC" stroke-width="26" stroke-dasharray="27.13 488.09" stroke-dashoffset="-446.64" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#F0ABFC" stroke-width="26" stroke-dasharray="20.87 494.35" stroke-dashoffset="-473.77" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#A7F3D0" stroke-width="26" stroke-dasharray="11.93 503.29" stroke-dashoffset="-494.64" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#CBD5E1" stroke-width="26" stroke-dasharray="4.47 510.75" stroke-dashoffset="-506.57" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#93C5FD" stroke-width="26" stroke-dasharray="4.17 511.05" stroke-dashoffset="-511.04" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#5EEAD4" stroke-width="26" stroke-dasharray="321.39 193.83" stroke-dashoffset="-0.00" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#7DD3FC" stroke-width="26" stroke-dasharray="119.89 395.33" stroke-dashoffset="-321.39" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#C084FC" stroke-width="26" stroke-dasharray="28.87 486.35" stroke-dashoffset="-441.28" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#F0ABFC" stroke-width="26" stroke-dasharray="20.62 494.60" stroke-dashoffset="-470.15" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#A7F3D0" stroke-width="26" stroke-dasharray="11.78 503.44" stroke-dashoffset="-490.77" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#CBD5E1" stroke-width="26" stroke-dasharray="4.42 510.80" stroke-dashoffset="-502.55" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#93C5FD" stroke-width="26" stroke-dasharray="4.12 511.10" stroke-dashoffset="-506.97" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#FDE68A" stroke-width="26" stroke-dasharray="4.12 511.10" stroke-dashoffset="-511.10" transform="rotate(-90)"/>
 
     <text x="0" y="-4" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="800">8</text>
     <text x="0" y="22" text-anchor="middle" fill="#8FA0B7" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.2">PUBLIC REPOS</text>
@@ -39,37 +40,37 @@
     <g transform="translate(455 135)">
       <circle cx="5" cy="5" r="5" fill="#5EEAD4"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">coffeehouse</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">63.1%</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">62.4%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="183.1" height="12" rx="6" fill="#5EEAD4" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="180.9" height="12" rx="6" fill="#5EEAD4" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 173)">
       <circle cx="5" cy="5" r="5" fill="#7DD3FC"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">Carousel</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">23.6%</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">23.3%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="68.3" height="12" rx="6" fill="#7DD3FC" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="67.5" height="12" rx="6" fill="#7DD3FC" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 211)">
       <circle cx="5" cy="5" r="5" fill="#C084FC"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">NiloufarRabiee</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">5.3%</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">5.6%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="15.3" height="12" rx="6" fill="#C084FC" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="16.2" height="12" rx="6" fill="#C084FC" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 249)">
       <circle cx="5" cy="5" r="5" fill="#F0ABFC"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">CoreMotion</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">4.1%</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">4.0%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="11.7" height="12" rx="6" fill="#F0ABFC" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="11.6" height="12" rx="6" fill="#F0ABFC" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 287)">
       <circle cx="5" cy="5" r="5" fill="#A7F3D0"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">RotatingLogo</text>
       <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">2.3%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="6.7" height="12" rx="6" fill="#A7F3D0" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="6.6" height="12" rx="6" fill="#A7F3D0" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 325)">
       <circle cx="5" cy="5" r="5" fill="#CBD5E1"/>
@@ -80,16 +81,17 @@
     </g>
     <g transform="translate(455 363)">
       <circle cx="5" cy="5" r="5" fill="#93C5FD"/>
-      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-hold-to-confirm-button</text>
+      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-copy-button-toast</text>
       <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">0.8%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
       <rect x="310" y="-1" width="2.3" height="12" rx="6" fill="#93C5FD" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 401)">
       <circle cx="5" cy="5" r="5" fill="#FDE68A"/>
-      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-copy-button-toast</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">0.0%</text>
+      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-hold-to-confirm-button</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">0.8%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
+      <rect x="310" y="-1" width="2.3" height="12" rx="6" fill="#FDE68A" fill-opacity=".82"/>
     </g>
   </g>
 
