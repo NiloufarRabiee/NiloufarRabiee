@@ -91,10 +91,6 @@ The process is usually the same: **research → frame the problem → prototype 
 ## GitHub snapshot
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiloufarRabiee&theme=transparent" width="100%" alt="Niloufar Rabiee GitHub activity summary" />
-</p>
-
-<p align="center">
   <img src="./assets/public-code-snapshot-v1.svg" width="100%" alt="Niloufar Rabiee public repository code snapshot" />
 </p>
 
