@@ -1,5 +1,5 @@
 <svg width="1200" height="568" viewBox="0 0 1200 568" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- data-fingerprint: 5810757f2879422a -->
+  <!-- data-fingerprint: 5fd9b90c5d083fe3 -->
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="568" gradientUnits="userSpaceOnUse">
       <stop stop-color="#050A14"/>
@@ -19,16 +19,17 @@
   <g transform="translate(245 294)">
     <circle r="108" fill="#09111D" stroke="#E2E8F0" stroke-opacity=".06"/>
     <circle r="82" fill="none" stroke="#182333" stroke-width="26"/>
-    <circle r="82" fill="none" stroke="#5EEAD4" stroke-width="26" stroke-dasharray="316.15 199.08" stroke-dashoffset="-0.00" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#7DD3FC" stroke-width="26" stroke-dasharray="117.94 397.28" stroke-dashoffset="-316.15" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#C084FC" stroke-width="26" stroke-dasharray="29.27 485.95" stroke-dashoffset="-434.08" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#F0ABFC" stroke-width="26" stroke-dasharray="20.28 494.94" stroke-dashoffset="-463.35" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#A7F3D0" stroke-width="26" stroke-dasharray="11.59 503.63" stroke-dashoffset="-483.64" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#CBD5E1" stroke-width="26" stroke-dasharray="4.35 510.87" stroke-dashoffset="-495.23" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#93C5FD" stroke-width="26" stroke-dasharray="4.06 511.16" stroke-dashoffset="-499.57" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#FDE68A" stroke-width="26" stroke-dasharray="4.06 511.16" stroke-dashoffset="-503.63" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#FDBA74" stroke-width="26" stroke-dasharray="3.77 511.45" stroke-dashoffset="-507.69" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#FCA5A5" stroke-width="26" stroke-dasharray="3.77 511.45" stroke-dashoffset="-511.45" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#5EEAD4" stroke-width="26" stroke-dasharray="313.15 202.07" stroke-dashoffset="-0.00" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#7DD3FC" stroke-width="26" stroke-dasharray="116.82 398.40" stroke-dashoffset="-313.15" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#C084FC" stroke-width="26" stroke-dasharray="29.85 485.37" stroke-dashoffset="-429.97" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#F0ABFC" stroke-width="26" stroke-dasharray="20.09 495.13" stroke-dashoffset="-459.82" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#A7F3D0" stroke-width="26" stroke-dasharray="11.48 503.74" stroke-dashoffset="-479.92" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#CBD5E1" stroke-width="26" stroke-dasharray="4.31 510.92" stroke-dashoffset="-491.40" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#93C5FD" stroke-width="26" stroke-dasharray="4.02 511.20" stroke-dashoffset="-495.70" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#FDE68A" stroke-width="26" stroke-dasharray="4.02 511.20" stroke-dashoffset="-499.72" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#FDBA74" stroke-width="26" stroke-dasharray="4.02 511.20" stroke-dashoffset="-503.74" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#FCA5A5" stroke-width="26" stroke-dasharray="3.73 511.49" stroke-dashoffset="-507.76" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#86EFAC" stroke-width="26" stroke-dasharray="3.73 511.49" stroke-dashoffset="-511.49" transform="rotate(-90)"/>
 
     <text x="0" y="-4" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="800">11</text>
     <text x="0" y="22" text-anchor="middle" fill="#8FA0B7" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.2">PUBLIC REPOS</text>
@@ -42,30 +43,30 @@
     <g transform="translate(455 135)">
       <circle cx="5" cy="5" r="5" fill="#5EEAD4"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">coffeehouse</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">61.4%</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">60.8%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="177.9" height="12" rx="6" fill="#5EEAD4" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="176.3" height="12" rx="6" fill="#5EEAD4" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 173)">
       <circle cx="5" cy="5" r="5" fill="#7DD3FC"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">Carousel</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">22.9%</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">22.7%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="66.4" height="12" rx="6" fill="#7DD3FC" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="65.8" height="12" rx="6" fill="#7DD3FC" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 211)">
       <circle cx="5" cy="5" r="5" fill="#C084FC"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">NiloufarRabiee</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">5.7%</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">5.8%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="16.5" height="12" rx="6" fill="#C084FC" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="16.8" height="12" rx="6" fill="#C084FC" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 249)">
       <circle cx="5" cy="5" r="5" fill="#F0ABFC"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">CoreMotion</text>
       <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">3.9%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="11.4" height="12" rx="6" fill="#F0ABFC" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="11.3" height="12" rx="6" fill="#F0ABFC" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 287)">
       <circle cx="5" cy="5" r="5" fill="#A7F3D0"/>
@@ -90,30 +91,31 @@
     </g>
     <g transform="translate(455 401)">
       <circle cx="5" cy="5" r="5" fill="#FDE68A"/>
-      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-hold-to-confirm-button</text>
+      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-debounced-search-field</text>
       <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">0.8%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
       <rect x="310" y="-1" width="2.3" height="12" rx="6" fill="#FDE68A" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 439)">
       <circle cx="5" cy="5" r="5" fill="#FDBA74"/>
-      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-shimmer-placeholder</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">0.7%</text>
+      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-hold-to-confirm-button</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">0.8%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="2.1" height="12" rx="6" fill="#FDBA74" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="2.3" height="12" rx="6" fill="#FDBA74" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 477)">
       <circle cx="5" cy="5" r="5" fill="#FCA5A5"/>
-      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-typewriter-text</text>
+      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-shimmer-placeholder</text>
       <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">0.7%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
       <rect x="310" y="-1" width="2.1" height="12" rx="6" fill="#FCA5A5" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 515)">
       <circle cx="5" cy="5" r="5" fill="#86EFAC"/>
-      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-debounced-search-field</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">0.0%</text>
+      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">swiftui-typewriter-text</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">0.7%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
+      <rect x="310" y="-1" width="2.1" height="12" rx="6" fill="#86EFAC" fill-opacity=".82"/>
     </g>
   </g>
 
