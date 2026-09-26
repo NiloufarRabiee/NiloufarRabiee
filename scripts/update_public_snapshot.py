@@ -11,10 +11,15 @@ from pathlib import Path
 OWNER = os.environ.get("GITHUB_REPOSITORY_OWNER", "NiloufarRabiee")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 OUTPUT = Path("assets/public-code-snapshot-v1.svg")
+
+# Keep the card compact forever: at most 7 rows.
+# When there are more repositories, the six largest stay visible and the rest
+# are combined into one "Other public repos" row.
+MAX_ROWS = 7
+
 PALETTE = [
     "#5EEAD4", "#7DD3FC", "#C084FC", "#F0ABFC",
-    "#A7F3D0", "#CBD5E1", "#93C5FD", "#FDE68A",
-    "#FDBA74", "#FCA5A5", "#86EFAC", "#F9A8D4",
+    "#A7F3D0", "#CBD5E1", "#93C5FD",
 ]
 
 
@@ -42,10 +47,7 @@ def fetch_public_repos():
             break
 
         repos.extend(
-            {
-                "name": repo["name"],
-                "size": int(repo.get("size", 0)),
-            }
+            {"name": repo["name"], "size": int(repo.get("size", 0))}
             for repo in batch
             if not repo.get("private", False)
         )
@@ -71,14 +73,31 @@ def source_fingerprint(repos):
     return hashlib.sha256(raw).hexdigest()[:16]
 
 
+def compact_rows(repos):
+    if len(repos) <= MAX_ROWS:
+        return repos
+
+    visible = repos[: MAX_ROWS - 1]
+    remainder = repos[MAX_ROWS - 1 :]
+    visible.append(
+        {
+            "name": f"Other public repos ({len(remainder)})",
+            "size": sum(max(0, repo["size"]) for repo in remainder),
+        }
+    )
+    return visible
+
+
 def render_svg(repos, fingerprint):
+    rows = compact_rows(repos)
     total = sum(max(0, repo["size"]) for repo in repos)
     count = len(repos)
+
     width = 1200
-    row_height = 38
+    height = 410
+    row_height = 39
     row_start = 135
-    height = max(410, 120 + count * row_height + 30)
-    center_y = height / 2 + 10
+    center_y = 220
     radius = 82
     circumference = 2 * math.pi * radius
 
@@ -101,15 +120,15 @@ def render_svg(repos, fingerprint):
         '  <text x="58" y="48" fill="#708198" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700" letter-spacing="2.2">PUBLIC CODE SNAPSHOT</text>',
         '  <text x="1140" y="48" text-anchor="end" fill="#5B506C" font-family="Georgia,serif" font-size="12.5" font-style="italic">auto-updated from public repositories</text>',
         "",
-        f'  <g transform="translate(245 {center_y:.0f})">',
+        f'  <g transform="translate(245 {center_y})">',
         '    <circle r="108" fill="#09111D" stroke="#E2E8F0" stroke-opacity=".06"/>',
         '    <circle r="82" fill="none" stroke="#182333" stroke-width="26"/>',
     ]
 
     offset = 0.0
-    for index, repo in enumerate(repos):
+    for index, repo in enumerate(rows):
         size = max(0, repo["size"])
-        fraction = (size / total) if total else ((1 / count) if count else 0)
+        fraction = (size / total) if total else ((1 / len(rows)) if rows else 0)
         dash = fraction * circumference
         if dash > 0:
             color = PALETTE[index % len(PALETTE)]
@@ -131,14 +150,14 @@ def render_svg(repos, fingerprint):
             "",
             '  <g font-family="Inter,Arial,sans-serif">',
             '    <text x="455" y="88" fill="#F8FAFC" font-size="18" font-weight="750">Public repository footprint</text>',
-            '    <text x="455" y="112" fill="#8798AE" font-size="12.5">Relative size across public repositories</text>',
+            '    <text x="455" y="112" fill="#8798AE" font-size="12.5">Largest repositories + combined remainder</text>',
         ]
     )
 
-    for index, repo in enumerate(repos):
+    for index, repo in enumerate(rows):
         name = html.escape(repo["name"])
         size = max(0, repo["size"])
-        percent = (size / total * 100) if total else ((100 / count) if count else 0)
+        percent = (size / total * 100) if total else ((100 / len(rows)) if rows else 0)
         y = row_start + index * row_height
         bar_width = 290 * percent / 100
         color = PALETTE[index % len(PALETTE)]
