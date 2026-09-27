@@ -1,7 +1,5 @@
-> y = 1 if at least one x_i = 1; otherwise y = 0 — equivalently, y = 1 − ∏ (1 − x_i), with x_i ∈ {0,1}.
-
 <p align="center">
-  <img src="./assets/research-universe-orbit-v1.svg" width="100%" alt="Niloufar Rabiee — Research Universe" />
+  <img src="./assets/research-universe-orbit-v2.svg" width="100%" alt="Niloufar Rabiee — Research Universe" />
 </p>
 
 <p align="center">
@@ -10,31 +8,15 @@
   <a href="mailto:rabiee.niloo@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=FF5EC8" alt="Email" /></a>
 </p>
 
-<br/>
-
 ## About
 
-I am an architect and multidisciplinary designer working across **architecture, human-centered AI, interaction design, and digital products**.
+I am an architect and multidisciplinary designer/developer working across **architecture, human-centered AI, interaction design, and digital products**.
 
-I am interested in technology that feels thoughtful rather than loud — systems that respond to context while keeping people in control.
+I build systems that connect physical space, software, behavior, and human experience. I am especially interested in technology that can respond to context without becoming intrusive or taking control away from people.
 
 > **How can technology become more responsive without becoming more intrusive?**
 
 That question connects much of what I build.
-
-<br/>
-
-## Fields in orbit
-
-A public glimpse of the fields I move between — intentionally broad, with unpublished and sensitive work kept off the surface.
-
-<p align="center">
-  <img src="./assets/fields-in-orbit-v1.svg" width="100%" alt="Niloufar Rabiee fields in orbit" />
-</p>
-
-<p align="center">
-  <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Follow the white rabbit" />
-</p>
 
 ## Selected public work
 
@@ -48,19 +30,46 @@ A public glimpse of the fields I move between — intentionally broad, with unpu
   <a href="https://niloufarrabieeusa.com/ui-ux-design--designing-feelings--not-just-interfaces"><img src="./assets/card-ecosphier-masky-v2.svg" width="49%" alt="Selected UX and interaction design work by Niloufar Rabiee" /></a>
 </p>
 
+## SwiftUI Micro Lab
+
+Small, focused components built as reusable Swift packages and practical teaching examples.
+
+| Repository | Focus |
+|---|---|
+| [**AsyncButton**](https://github.com/NiloufarRabiee/swiftui-async-button) | Async actions, loading state, error handling, and double-tap prevention |
+| [**FlowLayout**](https://github.com/NiloufarRabiee/swiftui-flow-layout) | Native SwiftUI `Layout`, wrapping rows, spacing, and alignment |
+| [**DebouncedSearchField**](https://github.com/NiloufarRabiee/swiftui-debounced-search-field) | Debouncing, task cancellation, and async search |
+| [**TypewriterText**](https://github.com/NiloufarRabiee/swiftui-typewriter-text) | Character-by-character animation, restart control, and accessibility |
+| [**ShimmerPlaceholder**](https://github.com/NiloufarRabiee/swiftui-shimmer-placeholder) | Skeleton loading states and reusable shimmer effects |
+| [**CopyButtonToast**](https://github.com/NiloufarRabiee/swiftui-copy-button-toast) | Clipboard interaction and transient feedback |
+| [**HoldToConfirmButton**](https://github.com/NiloufarRabiee/swiftui-hold-to-confirm-button) | Press-and-hold interaction, progress, and confirmation patterns |
+
+## Fields in orbit
+
+A public glimpse of the fields I move between — intentionally broad, with unpublished and sensitive work kept off the surface.
+
 <p align="center">
-  <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="The trail continues" />
+  <img src="./assets/fields-in-orbit-v1.svg" width="100%" alt="Niloufar Rabiee fields in orbit" />
 </p>
 
-## Practice
-
-I move between **physical space and digital interaction** rather than treating them as separate disciplines. Architecture gives me a way to think about behavior, movement, atmosphere, accessibility, and context; software lets me prototype those ideas as interactions people can actually use.
-
-The process is usually the same: **research → frame the problem → prototype → test → refine**.
+<details>
+<summary><b>Research motif</b> — a small systems note kept visible</summary>
 
 <br/>
 
-## Focus
+`y = 1` if at least one `x_i = 1`; otherwise `y = 0` — equivalently, `y = 1 − ∏ (1 − x_i)`, with `x_i ∈ {0,1}`.
+
+</details>
+
+## How I work
+
+I move between **physical space and digital interaction** rather than treating them as separate disciplines. Architecture gives me a way to think about movement, atmosphere, accessibility, context, and human behavior; software lets me prototype those ideas as interactions people can actually use.
+
+My process is usually:
+
+**research → frame the problem → prototype → test → refine**
+
+## Focus & tools
 
 <p>
   <img src="https://img.shields.io/badge/Architecture_+_Urban_Interfaces-0F172A?style=flat-square" alt="Architecture and Urban Interfaces" />
@@ -71,10 +80,6 @@ The process is usually the same: **research → frame the problem → prototype 
   <img src="https://img.shields.io/badge/Privacy--Aware_Design-0F172A?style=flat-square" alt="Privacy Aware Design" />
 </p>
 
-<br/>
-
-## Tools
-
 <p>
   <img src="https://img.shields.io/badge/Swift-111827?style=for-the-badge&logo=swift&logoColor=F97316" alt="Swift" />
   <img src="https://img.shields.io/badge/SwiftUI-111827?style=for-the-badge&logo=swift&logoColor=38BDF8" alt="SwiftUI" />
@@ -84,10 +89,6 @@ The process is usually the same: **research → frame the problem → prototype 
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=C4B5FD" alt="Figma" />
 </p>
 
-<p align="center">
-  <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Keep going" />
-</p>
-
 ## GitHub snapshot
 
 <p align="center">
@@ -95,8 +96,6 @@ The process is usually the same: **research → frame the problem → prototype 
 </p>
 
 <sub>Public repositories only. The footprint chart reflects GitHub-reported repository size, not skill level or code quality.</sub>
-
-<br/>
 
 ## Connect
 
