@@ -60,15 +60,6 @@ A public glimpse of the fields I move between — intentionally broad, with unpu
   <img src="./assets/fields-in-orbit-v1.svg" width="100%" alt="Niloufar Rabiee fields in orbit" />
 </p>
 
-<details>
-<summary><b>Research motif</b> — a small systems note kept visible</summary>
-
-<br/>
-
-`y = 1` if at least one `x_i = 1`; otherwise `y = 0` — equivalently, `y = 1 − ∏ (1 − x_i)`, with `x_i ∈ {0,1}`.
-
-</details>
-
 ## How I work
 
 I move between **physical space and digital interaction** rather than treating them as separate disciplines. Architecture gives me a way to think about movement, atmosphere, accessibility, context, and human behavior; software lets me prototype those ideas as interactions people can actually use.
