@@ -60,6 +60,20 @@ A public glimpse of the fields I move between — intentionally broad, with unpu
   <img src="./assets/fields-in-orbit-v1.svg" width="100%" alt="Niloufar Rabiee fields in orbit" />
 </p>
 
+### Research directions
+
+My public research interests sit at the intersection of:
+
+- **Adaptive environments** — spaces and interfaces that respond to context and human presence
+- **Human-centered AI** — intelligent systems designed around agency, legibility, and responsible interaction
+- **Spatial interaction** — connecting architecture, sensing, movement, and digital behavior
+- **Affect-aware design** — exploring how systems can respond to uncertainty, hesitation, attention, and emotional context
+- **Privacy-aware sensing** — using the minimum information necessary to support useful interaction
+- **Accessibility and inclusive interaction** — designing systems that remain understandable and usable across different needs
+- **Physical–digital prototyping** — testing ideas across built environments, interfaces, and software
+
+Public descriptions intentionally stay at the level of research direction; implementation details, unpublished methods, internal architectures, and experimental hypotheses remain private.
+
 ## How I work
 
 I move between **physical space and digital interaction** rather than treating them as separate disciplines. Architecture gives me a way to think about movement, atmosphere, accessibility, context, and human behavior; software lets me prototype those ideas as interactions people can actually use.
