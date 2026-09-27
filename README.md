@@ -18,6 +18,10 @@ I build systems that connect physical space, software, behavior, and human exper
 
 That question connects much of what I build.
 
+<p align="center">
+  <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Follow the white rabbit" />
+</p>
+
 ## Selected public work
 
 <p align="center">
@@ -43,6 +47,10 @@ Small, focused components built as reusable Swift packages and practical teachin
 | [**ShimmerPlaceholder**](https://github.com/NiloufarRabiee/swiftui-shimmer-placeholder) | Skeleton loading states and reusable shimmer effects |
 | [**CopyButtonToast**](https://github.com/NiloufarRabiee/swiftui-copy-button-toast) | Clipboard interaction and transient feedback |
 | [**HoldToConfirmButton**](https://github.com/NiloufarRabiee/swiftui-hold-to-confirm-button) | Press-and-hold interaction, progress, and confirmation patterns |
+
+<p align="center">
+  <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Follow the white rabbit" />
+</p>
 
 ## Fields in orbit
 
@@ -87,6 +95,10 @@ My process is usually:
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15" alt="Python" />
   <img src="https://img.shields.io/badge/Blender-111827?style=for-the-badge&logo=blender&logoColor=FB923C" alt="Blender" />
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=C4B5FD" alt="Figma" />
+</p>
+
+<p align="center">
+  <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Follow the white rabbit" />
 </p>
 
 ## GitHub snapshot
