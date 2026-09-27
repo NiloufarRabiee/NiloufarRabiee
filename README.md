@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/research-universe-orbit-v2.svg" width="100%" alt="Niloufar Rabiee — Research Universe" />
+  <img src="./assets/research-universe-orbit-v3.svg" width="100%" alt="Niloufar Rabiee — Research Universe" />
 </p>
 
 <p align="center">
