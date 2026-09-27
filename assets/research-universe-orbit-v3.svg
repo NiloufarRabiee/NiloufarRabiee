@@ -1,0 +1,211 @@
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030812"/>
+      <stop offset="0.55" stop-color="#07101A"/>
+      <stop offset="1" stop-color="#0C0716"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="74" y1="0" x2="1085" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61F5D5"/>
+      <stop offset="0.48" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+
+    <linearGradient id="orbitStroke" x1="700" y1="120" x2="1120" y2="365" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61F5D5" stop-opacity="0.32"/>
+      <stop offset="0.52" stop-color="#7DD3FC" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0.34"/>
+    </linearGradient>
+
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(914 230) rotate(58) scale(76)">
+      <stop offset="0.05" stop-color="#D4E7FF" stop-opacity="0.34"/>
+      <stop offset="0.45" stop-color="#24314F"/>
+      <stop offset="0.82" stop-color="#11172D"/>
+      <stop offset="1" stop-color="#68458E"/>
+    </radialGradient>
+
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#9EB0C6" stroke-opacity="0.025"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="460" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="460" rx="30" fill="url(#grid)"/>
+
+  <g opacity="0.6">
+    <circle cx="95" cy="54" r="1.1" fill="#7DD3FC"/>
+    <circle cx="254" cy="74" r="1.0" fill="#C084FC"/>
+    <circle cx="470" cy="51" r="1.0" fill="#61F5D5"/>
+    <circle cx="662" cy="78" r="1.0" fill="#FFFFFF"/>
+    <circle cx="1068" cy="62" r="1.1" fill="#C084FC"/>
+    <circle cx="1114" cy="348" r="1.0" fill="#61F5D5"/>
+    <circle cx="622" cy="385" r="1.0" fill="#7DD3FC"/>
+    <circle cx="178" cy="395" r="1.0" fill="#FFFFFF"/>
+  </g>
+
+  <g stroke="#CBD5E1" stroke-opacity="0.13">
+    <path d="M60 50H105M60 50V95"/>
+    <path d="M1140 50H1095M1140 50V95"/>
+    <path d="M60 410H105M60 410V365"/>
+    <path d="M1140 410H1095M1140 410V365"/>
+  </g>
+
+  <text x="74" y="72"
+        fill="#73859E"
+        font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="11"
+        font-weight="700"
+        letter-spacing="2.5">
+    NILOUFAR RABIEE / ARCHITECT · DESIGNER · DEVELOPER
+  </text>
+
+  <rect x="74" y="96" width="420" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="74" y="166"
+        fill="#F8FAFC"
+        font-family="Inter,Arial,sans-serif"
+        font-size="54"
+        font-weight="800"
+        letter-spacing="-2">
+    I build systems
+  </text>
+
+  <text x="74" y="224"
+        fill="#F8FAFC"
+        font-family="Inter,Arial,sans-serif"
+        font-size="54"
+        font-weight="800"
+        letter-spacing="-2">
+    between worlds.
+  </text>
+
+  <text x="76" y="267"
+        fill="#AFC0D7"
+        font-family="Inter,Arial,sans-serif"
+        font-size="17"
+        font-weight="520">
+    architecture × human-centered AI × interaction design
+  </text>
+
+  <text x="76" y="307"
+        fill="#6E8098"
+        font-family="Inter,Arial,sans-serif"
+        font-size="13.5"
+        font-weight="500">
+    Research-driven systems for people, places, and emerging technology.
+  </text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+     font-size="10"
+     font-weight="700"
+     letter-spacing="1.4">
+    <g transform="translate(76 346)">
+      <circle cx="4" cy="4" r="4" fill="#61F5D5"/>
+      <text x="17" y="8" fill="#A8F6E5">RESEARCH</text>
+    </g>
+    <g transform="translate(178 346)">
+      <circle cx="4" cy="4" r="4" fill="#7DD3FC"/>
+      <text x="17" y="8" fill="#C1EAFB">PRODUCTS</text>
+    </g>
+    <g transform="translate(279 346)">
+      <circle cx="4" cy="4" r="4" fill="#C084FC"/>
+      <text x="17" y="8" fill="#E7D5FE">OPEN SOURCE</text>
+    </g>
+  </g>
+
+  <g>
+    <ellipse cx="914" cy="230" rx="235" ry="155"
+             stroke="#7DD3FC" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="3 8"/>
+    <ellipse cx="914" cy="230" rx="198" ry="120"
+             stroke="url(#orbitStroke)" stroke-width="1"/>
+    <ellipse cx="914" cy="230" rx="156" ry="83"
+             stroke="url(#orbitStroke)" stroke-opacity="0.72" stroke-width="1"/>
+    <ellipse cx="914" cy="230" rx="114" ry="48"
+             stroke="#7DD3FC" stroke-opacity="0.22" stroke-width="1"/>
+
+    <path d="M914 94V366" stroke="#7DD3FC" stroke-opacity="0.18"/>
+    <path d="M729 230H1099" stroke="#7DD3FC" stroke-opacity="0.13"/>
+
+    <circle cx="914" cy="230" r="66" fill="#7DD3FC" fill-opacity="0.08" filter="url(#glow)"/>
+    <circle cx="914" cy="230" r="48" fill="url(#core)" stroke="#B8D7FF" stroke-opacity="0.72"/>
+    <text x="914" y="238" text-anchor="middle"
+          fill="#C7D9FF"
+          font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="23"
+          font-weight="700"
+          letter-spacing="2.2">NR</text>
+
+    <g>
+      <circle cx="914" cy="106" r="9" fill="#7DD3FC" fill-opacity="0.25" filter="url(#glow)"/>
+      <circle cx="914" cy="106" r="5" fill="#8BB8FF"/>
+
+      <circle cx="794" cy="156" r="9" fill="#61F5D5" fill-opacity="0.24" filter="url(#glow)"/>
+      <circle cx="794" cy="156" r="5" fill="#61F5D5"/>
+
+      <circle cx="1038" cy="154" r="9" fill="#C084FC" fill-opacity="0.24" filter="url(#glow)"/>
+      <circle cx="1038" cy="154" r="5" fill="#D5A6FF"/>
+
+      <circle cx="751" cy="230" r="4.5" fill="#7184AD"/>
+      <circle cx="1078" cy="230" r="5" fill="#69D9FF"/>
+
+      <circle cx="798" cy="308" r="5" fill="#D7A8FF"/>
+      <circle cx="1034" cy="310" r="5" fill="#61F5D5"/>
+    </g>
+
+    <g fill="#AFC5E4"
+       font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+       font-size="10"
+       font-weight="700"
+       letter-spacing="1.3">
+      <text x="914" y="86" text-anchor="middle">AI</text>
+      <text x="794" y="136" text-anchor="middle">ARCHITECTURE</text>
+      <text x="1038" y="134" text-anchor="middle">HUMAN</text>
+      <text x="716" y="233" text-anchor="end">SPACE</text>
+      <text x="1090" y="233" text-anchor="start">INTERACTION</text>
+      <text x="798" y="332" text-anchor="middle">DESIGN</text>
+      <text x="1034" y="334" text-anchor="middle">SYSTEMS</text>
+    </g>
+
+    <line x1="914" y1="278" x2="914" y2="348" stroke="#7DD3FC" stroke-opacity="0.24"/>
+    <circle cx="914" cy="366" r="16" fill="#0B1722" stroke="#7DD3FC" stroke-opacity="0.55"/>
+    <text x="914" y="372" text-anchor="middle"
+          fill="#D7ECFF"
+          font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="15"
+          font-weight="700">?</text>
+    <text x="914" y="397" text-anchor="middle"
+          fill="#5F718C"
+          font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="9"
+          font-weight="700"
+          letter-spacing="1.4">NEXT UNKNOWN</text>
+  </g>
+
+  <text x="76" y="423"
+        fill="#586A81"
+        font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="9.5"
+        font-weight="700"
+        letter-spacing="1.6">
+    PUBLIC SURFACE / PRIVATE DEPTH / PROVENANCE FIRST
+  </text>
+
+  <text x="1124" y="423"
+        text-anchor="end"
+        fill="#586A81"
+        font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="9.5"
+        font-weight="700"
+        letter-spacing="1.6">
+    NR-LAB / PROFILE 02
+  </text>
+
+  <rect x="1" y="1" width="1198" height="458" rx="29"
+        stroke="#E2E8F0" stroke-opacity="0.07"/>
+</svg>
