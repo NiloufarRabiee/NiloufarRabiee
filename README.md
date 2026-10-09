@@ -43,6 +43,7 @@ Small, focused components built as reusable Swift packages and practical teachin
 | [**AsyncButton**](https://github.com/NiloufarRabiee/swiftui-async-button) | Async actions, loading state, error handling, and double-tap prevention |
 | [**FlowLayout**](https://github.com/NiloufarRabiee/swiftui-flow-layout) | Native SwiftUI `Layout`, wrapping rows, spacing, and alignment |
 | [**ExpandableText**](https://github.com/NiloufarRabiee/swiftui-expandable-text) | Truncation detection, expandable content, and accessible disclosure controls |
+| [**FloatingLabelTextField**](https://github.com/NiloufarRabiee/swiftui-floating-label-text-field) | Floating labels, focus states, validation feedback, and secure form input |
 | [**DebouncedSearchField**](https://github.com/NiloufarRabiee/swiftui-debounced-search-field) | Debouncing, task cancellation, and async search |
 | [**TypewriterText**](https://github.com/NiloufarRabiee/swiftui-typewriter-text) | Character-by-character animation, restart control, and accessibility |
 | [**ShimmerPlaceholder**](https://github.com/NiloufarRabiee/swiftui-shimmer-placeholder) | Skeleton loading states and reusable shimmer effects |
