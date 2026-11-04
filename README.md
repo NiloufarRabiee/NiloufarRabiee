@@ -53,6 +53,7 @@ Small, focused components built as reusable Swift packages and practical teachin
 | [**CopyButtonToast**](https://github.com/NiloufarRabiee/swiftui-copy-button-toast) | Clipboard interaction and transient feedback |
 | [**HoldToConfirmButton**](https://github.com/NiloufarRabiee/swiftui-hold-to-confirm-button) | Press-and-hold interaction, progress, and confirmation patterns |
 | [**SwipeRevealRow**](https://github.com/NiloufarRabiee/swiftui-swipe-reveal-row) | Bidirectional swipe actions, gesture direction detection, snap thresholds, and accessibility |
+| [**MatchedGeometryTransition**](https://github.com/NiloufarRabiee/swiftui-matched-geometry-transition) | Shared-element card-to-detail animations, reusable gallery layout, accessibility, and Reduce Motion support |
 
 <p align="center">
   <img src="./assets/rabbit-trail-divider-v1.svg" width="100%" alt="Follow the white rabbit" />
