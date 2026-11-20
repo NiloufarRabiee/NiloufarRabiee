@@ -1,5 +1,5 @@
 <svg width="1200" height="410" viewBox="0 0 1200 410" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- data-fingerprint: aba32c9cf055dbba -->
+  <!-- data-fingerprint: 61b371daf886f617 -->
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="410" gradientUnits="userSpaceOnUse">
       <stop stop-color="#050A14"/>
@@ -19,15 +19,15 @@
   <g transform="translate(245 220)">
     <circle r="108" fill="#09111D" stroke="#E2E8F0" stroke-opacity=".06"/>
     <circle r="82" fill="none" stroke="#182333" stroke-width="26"/>
-    <circle r="82" fill="none" stroke="#5EEAD4" stroke-width="26" stroke-dasharray="281.62 233.60" stroke-dashoffset="-0.00" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#7DD3FC" stroke-width="26" stroke-dasharray="105.06 410.16" stroke-dashoffset="-281.62" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#C084FC" stroke-width="26" stroke-dasharray="44.66 470.57" stroke-dashoffset="-386.67" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#F0ABFC" stroke-width="26" stroke-dasharray="18.07 497.15" stroke-dashoffset="-431.33" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#A7F3D0" stroke-width="26" stroke-dasharray="10.33 504.90" stroke-dashoffset="-449.40" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#CBD5E1" stroke-width="26" stroke-dasharray="5.16 510.06" stroke-dashoffset="-459.72" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#93C5FD" stroke-width="26" stroke-dasharray="50.33 464.89" stroke-dashoffset="-464.89" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#5EEAD4" stroke-width="26" stroke-dasharray="279.65 235.57" stroke-dashoffset="-0.00" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#7DD3FC" stroke-width="26" stroke-dasharray="104.33 410.90" stroke-dashoffset="-279.65" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#C084FC" stroke-width="26" stroke-dasharray="44.86 470.36" stroke-dashoffset="-383.98" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#F0ABFC" stroke-width="26" stroke-dasharray="17.94 497.28" stroke-dashoffset="-428.84" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#A7F3D0" stroke-width="26" stroke-dasharray="10.25 504.97" stroke-dashoffset="-446.78" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#CBD5E1" stroke-width="26" stroke-dasharray="5.13 510.09" stroke-dashoffset="-457.03" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#93C5FD" stroke-width="26" stroke-dasharray="53.06 462.16" stroke-dashoffset="-462.16" transform="rotate(-90)"/>
 
-    <text x="0" y="-4" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="800">19</text>
+    <text x="0" y="-4" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="800">20</text>
     <text x="0" y="22" text-anchor="middle" fill="#8FA0B7" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.2">PUBLIC REPOS</text>
   </g>
 
@@ -39,30 +39,30 @@
     <g transform="translate(455 135)">
       <circle cx="5" cy="5" r="5" fill="#5EEAD4"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">coffeehouse</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">54.7%</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">54.3%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="158.5" height="12" rx="6" fill="#5EEAD4" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="157.4" height="12" rx="6" fill="#5EEAD4" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 174)">
       <circle cx="5" cy="5" r="5" fill="#7DD3FC"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">Carousel</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">20.4%</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">20.2%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="59.1" height="12" rx="6" fill="#7DD3FC" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="58.7" height="12" rx="6" fill="#7DD3FC" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 213)">
       <circle cx="5" cy="5" r="5" fill="#C084FC"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">NiloufarRabiee</text>
       <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">8.7%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="25.1" height="12" rx="6" fill="#C084FC" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="25.2" height="12" rx="6" fill="#C084FC" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 252)">
       <circle cx="5" cy="5" r="5" fill="#F0ABFC"/>
       <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">CoreMotion</text>
       <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">3.5%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="10.2" height="12" rx="6" fill="#F0ABFC" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="10.1" height="12" rx="6" fill="#F0ABFC" fill-opacity=".82"/>
     </g>
     <g transform="translate(455 291)">
       <circle cx="5" cy="5" r="5" fill="#A7F3D0"/>
@@ -80,10 +80,10 @@
     </g>
     <g transform="translate(455 369)">
       <circle cx="5" cy="5" r="5" fill="#93C5FD"/>
-      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">Other public repos (13)</text>
-      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">9.8%</text>
+      <text x="22" y="9" fill="#DCEAF0" font-size="12.5" font-weight="650">Other public repos (14)</text>
+      <text x="280" y="9" fill="#8798AE" font-size="12" text-anchor="end">10.3%</text>
       <rect x="310" y="-1" width="290" height="12" rx="6" fill="#101B29"/>
-      <rect x="310" y="-1" width="28.3" height="12" rx="6" fill="#93C5FD" fill-opacity=".82"/>
+      <rect x="310" y="-1" width="29.9" height="12" rx="6" fill="#93C5FD" fill-opacity=".82"/>
     </g>
   </g>
 
